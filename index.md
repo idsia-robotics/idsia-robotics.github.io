@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Robotics Group at IDSIA
-permalink: /about/
+permalink: /
 ---
 
 ### The site is under construction
