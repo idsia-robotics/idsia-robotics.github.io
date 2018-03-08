@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Robotics Group at IDSIA
+title: The Robotics Lab at IDSIA
 permalink: /
 ---
 
