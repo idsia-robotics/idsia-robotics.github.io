@@ -16,14 +16,14 @@ We work with both flying and ground mobile robots; our current research focuses 
  - Machine Learning and Deep Learning for challenging problems in robot perception and navigation;
  - Intuitive interaction modalities between humans and robots;
  - Robotics for education;
- - Collaboration and planning in multi robot systems.
+ - Collaboration and planning in multi-robot systems.
 
 # People
 
  - [Prof. Luca Gambardella](http://people.idsia.ch/~luca)
  - [Dr. Alessandro Giusti](http://people.idsia.ch/~giusti)
  - [Dr. Omar Chavez](http://romarcg.xyz)
- - Dr. Jerome Guzzi
- - [Dr. Boris Gromov](http://people.idsia.ch/~gromov)
+ - Jerome Guzzi
+ - [Boris Gromov](http://people.idsia.ch/~gromov)
  - Prof. Alberto Piatti
  - Dr. Lucio Negrini
