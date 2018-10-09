@@ -3,7 +3,7 @@ layout: splash
 title: "The IDSIA Robotics Lab"
 header:
   image: /files/forest_header.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [Hardy Müller](https://hardy-mueller.com), courtesy [National Geographic Magazine](https://www.nationalgeographic.com/magazine/)"
 
 p1:
   - image_path: "/files/traversability.jpg"
