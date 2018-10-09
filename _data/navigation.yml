@@ -1,9 +1,9 @@
 main:
   - title: "Research"
-    url: #research
+    url: "#research"
   - title: "News"
-    url: #news
+    url: "#news"
   - title: "People"
-    url: #people
+    url: "#people"
   - title: "IDSIA"
-    url: https://www.idsia.ch
+    url: "http://www.idsia.ch"
