@@ -5,5 +5,7 @@ main:
     url: "#news"
   - title: "People"
     url: "#people"
+  - title: "Publications"
+    url: /publications/
   - title: "IDSIA"
     url: "http://www.idsia.ch"
