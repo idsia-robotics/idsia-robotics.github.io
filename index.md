@@ -130,6 +130,7 @@ With several other NCCR Robotics laboratories we have been collaborating on an i
  - Dario Mantegazza
  - Gabriele Abbate
  - Sonny Monti
+ 
 
 ## Past members
 

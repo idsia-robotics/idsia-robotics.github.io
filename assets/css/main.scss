@@ -1,0 +1,48 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* bibtex */
+
+#bibtex_display{
+  padding-left: 1.0em;
+}
+.bibtexentry{
+  display: block;
+  //clear: both;
+  overflow: auto;
+  //list-style-type: square;
+  margin-bottom: 1.5em;
+  //min-height: 5em;
+}
+.bib_thumbnail{
+  width:18%;
+  margin: 5px;
+  float: left;
+}
+.bib_thumbnail .thumbnail{
+  padding: 0px; 
+  margin: 0px; 
+}
+.bib_text{
+  width: 70%;
+  float: left;
+  margin-left: 2em;
+}
+.bib_text .title{
+  font-weight: bold;
+}
+.bib_text .author{
+  font-style: italic;
+}
+.bib_text .options{
+  text-align: right;
+}
+
+/**/
+
