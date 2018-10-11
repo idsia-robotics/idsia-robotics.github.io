@@ -134,8 +134,8 @@ With several other NCCR Robotics laboratories we have been collaborating on an i
 
 ## Past members
 
- - Prof. [Gianni di Caro](http://www.giannidicaro.com/) (now at [Carnegie Mellon University - Quatar](https://www.qatar.cmu.edu/))
- - Dr. Eduardo Feo Flushing (now at [Carnegie Mellon University - Quatar](https://www.qatar.cmu.edu/))
+ - Prof. [Gianni di Caro](http://www.giannidicaro.com/) (now at [Carnegie Mellon University - Qatar](https://www.qatar.cmu.edu/))
+ - Dr. Eduardo Feo Flushing (now at [Carnegie Mellon University - Qatar](https://www.qatar.cmu.edu/))
  - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
  - Dr. Frederick Ducatelle (now at [Nuance](https://www.nuance.com/index.html))
 
