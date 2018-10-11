@@ -112,32 +112,6 @@ Our video "landing a drone with pointing gestures" was accepted at HRI 2018.  [D
 With several other NCCR Robotics laboratories we have been collaborating on an integrative demo project targeted at rescue missions.  The resulting video, which was recorded during the live demo held in Lausanne in Nov 2017, features some of our research about [human-robot interaction](http://people.idsia.ch/~gromov/hri-landing/) and machine learning for [traversability estimation](https://arxiv.org/abs/1709.05368).
 {% include video id="y0uUGiPL8Vo" provider="youtube" %}
 
-# People
-
-## Staff
-
- - [Prof. Luca Gambardella](http://people.idsia.ch/~luca)
- - [Dr. Alessandro Giusti](http://people.idsia.ch/~giusti)
- - [Dr. Omar Chavez](http://romarcg.xyz)
- - [Dr. Jerome Guzzi](https://github.com/jeguzzi)
- - [Boris Gromov](http://people.idsia.ch/~gromov)
- - Prof. Alberto Piatti (with SUPSI-DFA)
- - Dr. Lucio Negrini (with SUPSI-DFA)
-
-## Current students and interns
-
- - Mirko Nava
- - Dario Mantegazza
- - Gabriele Abbate
- - Sonny Monti
- 
-
-## Past members
-
- - Prof. [Gianni di Caro](http://www.giannidicaro.com/) (now at [Carnegie Mellon University - Qatar](https://www.qatar.cmu.edu/))
- - Dr. Eduardo Feo Flushing (now at [Carnegie Mellon University - Qatar](https://www.qatar.cmu.edu/))
- - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
- - Dr. Frederick Ducatelle (now at [Nuance](https://www.nuance.com/index.html))
 
 # Work with us
 

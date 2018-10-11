@@ -4,7 +4,7 @@ main:
   - title: "News"
     url: "#news"
   - title: "People"
-    url: "#people"
+    url: /people/
   - title: "Publications"
     url: /publications/
   - title: "IDSIA"
