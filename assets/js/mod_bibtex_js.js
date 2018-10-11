@@ -512,7 +512,14 @@ function BibtexDisplay() {
         }
 
         // find template
-        var tpl = $(".bibtex_template").clone().removeClass('bibtex_template');
+        // For using a specific template for a specific display (e.g. bibentryes in hightligths or fulllist)
+        if (output[0].hasAttribute("template")){
+            var tpl = $('#'+output[0].getAttribute("template")).clone().removeClass('bibtex_template');
+            tpl = tpl.removeAttr("id")
+        }
+        else{    
+            var tpl = $(".bibtex_template").clone().removeClass('bibtex_template');
+        }
 
         // find all keys in the entry
         var keys = [];
