@@ -53,10 +53,22 @@
   display: block;
   font-style: italic;
   color: #999;
+  font-size: 0.9em;
   margin-bottom: 0.5em;
 }
 .bibtex_entry_thumbnail .options{
   text-align: right;
+}
+
+@media (max-width: 48em){
+    .bibtex_entry_thumbnail{
+      width: 90%;
+      float: left;
+      border: 1px solid #ccc;
+      margin: 0.5em;
+      padding: 0.5em;
+      font-size: 0.8em;
+    }
 }
 
 /* full list */
