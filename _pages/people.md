@@ -6,11 +6,11 @@ title: "People"
 permalink: /people/
 
 people_staff:
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/luca_gambardella.jpg
     alt: "Prof. Luca Gambardella"
     title: "Prof. Luca Gambardella"
     excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](http://people.idsia.ch/~luca)"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/alessandro_giusti.jpg
     alt: "Dr. Alessandro Giusti"
     title: "Dr. Alessandro Giusti"
     excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](http://people.idsia.ch/~giusti)"
@@ -22,7 +22,7 @@ people_staff:
     alt: "Dr. Jerome Guzzi"
     title: "Dr. Jerome Guzzi"
     excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](https://github.com/jeguzzi)"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/boris_gromov.jpg
     alt: "Boris Gromov"
     title: "Boris Gromov"
     excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](http://people.idsia.ch/~gromov)"
