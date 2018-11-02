@@ -54,7 +54,6 @@ people_students:
     title: "Sonny Monti"
     excerpt: "Description. Notes. Use **Markdown**."
 
-
 ---
 
 <style>
