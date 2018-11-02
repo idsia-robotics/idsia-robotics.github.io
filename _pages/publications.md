@@ -5,6 +5,8 @@ classes: wide
 title: "Publications"
 permalink: /publications/
 
+highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGiuGam2018|giusti2016machine|DucDicForBonDorMagMonOgrPinRetTriGam2014"
+
 ---
 
 # Publications
@@ -26,7 +28,7 @@ permalink: /publications/
   </span>
   <span class="author"></span>
   <span class="if journal">
-    <span class="journal"></span>,
+    <span class="journal"></span>.
     <span class="if volume"> vol.
       <span class="volume"></span>,
     </span>
@@ -45,10 +47,13 @@ permalink: /publications/
   </span-->
   <div class="options">
       <span class="if url">
-        <a class="url"><img src="/files/online.png"></a>
+        <a class="url" alt="view online"><img src="/files/online.png"></a>
       </span>
       <span class="if file">
-        <a class="file"><img src="/files/download.png"></a>
+        <a class="file" alt="download pdf"><img src="/files/download.png"></a>
+      </span>
+      <span class="if website">
+        <a class="website" alt="visit website"><img src="/files/website.png"></a>
       </span>
   </div>
 
@@ -56,6 +61,7 @@ permalink: /publications/
 
 
 <div class="bibtex_template bibtex_entry_full" id="display_fulllist">
+
   <span class="title"></span>.
   <span class="author"></span>.
   <span class="if journal">
@@ -82,15 +88,35 @@ permalink: /publications/
   <span class="if file">
     <a class="file">(pdf)</a>
   </span>
+  <span class="if website">
+    <a class="website">(website)</a>
+  </span>
+  <span class="if special_note">
+    <span class="special_note" style="font-weight: bold;"> </span>
+  </span>
+
   <p/>
+
 </div>
 
 
 
-## Hightlights
-<div class="bibtex_display" bibtexkeys="chavez-garcia2018|chavez-garcia2017" template="display_hightlights"></div>
+## Highlights
+<div class="bibtex_display" bibtexkeys="{{ page.highlights_bibkeys }}" template="display_hightlights"></div>
 
 ## Full list
 <div class="bibtex_display" template="display_fulllist"></div>
+
+<!--div class="bibtex_display" template="display_fulllist">
+</div-->
+
+<div class="bibtex_structure" template="display_fulllist">
+  <div class="group year" extra="DESC number">
+
+    <div class="sort title" extra="ASC string">
+       <div class="templates"></div>
+    </div>
+  </div>
+</div>
 
 &nbsp;

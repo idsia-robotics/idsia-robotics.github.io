@@ -697,10 +697,11 @@ function BibtexDisplay() {
                 //Add the header for the group
                 var header = newStruct.children("." + groupName.toLowerCase()).first().find(".title");
                 if (header.length) {
-                    header.prepend(this.fixValue(groupNameValue));
+                    header.prepend("<div class='group_header'>" + this.fixValue(groupNameValue) + "</div>");
+                    //header.prepend( this.fixValue(groupNameValue) );
+                    //alert(val);
                 } else {
-                    newStruct.children("." + groupName.toLowerCase()).first().prepend("<h" + (level + 1) + " class='" +
-                        groupName + "' id=\"" + groupNameValue + "\">" + this.fixValue(groupNameValue) + "</h" + (level + 1) + ">");
+                    newStruct.children("." + groupName.toLowerCase()).first().prepend("<h" + (level + 1) + " class='" + groupName + "' id=\"" + groupNameValue + "\">" + this.fixValue(groupNameValue) + "</h" + (level + 1) + ">");
                 }
 
                 //Divide the array into group with groupNameValue
@@ -832,6 +833,7 @@ function BibtexDisplay() {
         b.setInput(input);
         b.bibtex();
         var entries = b.getEntries();
+        var structure_present = false;
 
         // save old entries to remove them later
         var old = output.find("*");
@@ -841,8 +843,12 @@ function BibtexDisplay() {
         if (structure.length) {
             // Create array for sorting
             var entriesArray = this.createArray(entries);
-            this.createStructure(structure, output, entriesArray);
-        } else {
+            if (output.attr('template') == structure.attr('template')){
+               this.createStructure(structure, output, entriesArray);
+               structure_present = true;
+            }
+        } 
+        if (structure_present == false) {
             // iterate over bibTeX entries
             for (var entryKey in entries) {
                 var entry = entries[entryKey];
