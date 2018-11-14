@@ -115,8 +115,7 @@ With several other NCCR Robotics laboratories we have been collaborating on an i
 
 # Work with us
 
-We have one open PhD position. [Details](http://www.supsi.ch/home/dms/supsi/docs/supsi/offerte-lavoro/2018/180921_551_PhDstudent_in_Machine_Learning_of_Control_Task_ENG.pdf){: .btn .btn--info}
-
+[Contact us](mailto:alessandrog@idsia.ch) if you are interested in a PhD or Researcher position in our lab.
 
 # Sponsors
 
