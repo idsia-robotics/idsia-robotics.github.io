@@ -57,15 +57,19 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+## Jan 15 2019
+
+Check out our recent paper (accepted to the IEEE Robotics and Automation Letters): Mirko Nava, Jérôme Guzzi, R. Omar Chavez-Garcia, Luca M. Gambardella and Alessandro Giusti: Learning Long-range Perception using Self-Supervision from Short-Range Sensors and Odometry ([more info and downloads](https://github.com/idsia-robotics/learning-long-range-perception)).
+
 ## Dec 22 2018
 
 Two videos and one demo accepted at HRI 2019!
 
 ## Oct 27 2018
 
-Two demos accepted at AAAI 2019!
+Two demos accepted at AAAI 2019:
 * Simone Mellace, Jerome Guzzi, Alessandro Giusti and Luca Maria Gambardella: Realtime Generation of Audible Textures Inspired by a Video Stream
-* Mirko Nava, Jérôme Guzzi, Ricardo Omar Chavez-Garcia, Luca Maria Gambardella and Alessandro Giusti: Learning to perceive long-range obstacles using self-supervision from short-range sensors ([more info](https://github.com/Mirko-Nava/Learning-Long-range-Perception))
+* Mirko Nava, Jérôme Guzzi, Ricardo Omar Chavez-Garcia, Luca Maria Gambardella and Alessandro Giusti: Learning to perceive long-range obstacles using self-supervision from short-range sensors ([more info](https://github.com/idsia-robotics/learning-long-range-perception))
 
 ## Oct 8-9 2018
 
@@ -125,7 +129,7 @@ With several other NCCR Robotics laboratories we have been collaborating on an i
 
 # Work with us
 
-[Contact us](mailto:alessandrog@idsia.ch) if you are interested in a PhD or Researcher position in our lab.
+[Contact us](mailto:alessandrog@idsia.ch) if you are interested in a position in our lab as a Research Engineer, PhD student, or Post-doc researcher.
 
 # Sponsors
 
