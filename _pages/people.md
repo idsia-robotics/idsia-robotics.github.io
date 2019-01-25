@@ -37,7 +37,7 @@ people_staff:
 
 
 people_students:
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/mirko_nava.jpg
     alt: "Mirko Nava"
     title: "Mirko Nava"
     excerpt: "Description. Notes. Use **Markdown**."
