@@ -46,15 +46,14 @@ highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGi
     <span class="year"></span>.
   </span-->
   <div class="options">
-      <span class="if url">
-        <i class="fas fa-igloo"></i>
-        <a class="url" alt="view online"><img src="/files/online.png"></a>
+      <span class="if url">        
+        <a class="url" alt="view online"><i class="fas fa-search"></i></a>
       </span>
       <span class="if file">
-        <a class="file" alt="download pdf"><img src="/files/download.png"></a>
+        <a class="file" alt="download pdf"><i class="fas fa-file"></i></a>
       </span>
       <span class="if website">
-        <a class="website" alt="visit website"><img src="/files/website.png"></a>
+        <a class="website" alt="visit website"><i class="fas fa-globe-europe"></i></a>
       </span>
   </div>
 
