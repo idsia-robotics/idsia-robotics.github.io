@@ -1,6 +1,8 @@
 ﻿
 /* 
- * Author = Philip Cooksey
+ * Modified = Omar Chavez
+ * Edited = Dec 2018
+ * Modified = Philip Cooksey
  * Edited = July 2018
  * Website = https://github.com/pcooksey/bibtex-js
  * Credit = Henrik Mühe
@@ -22,6 +24,13 @@
  *  value_quotes -> '"' .*? '"'; // not quite
  *  value_braces -> '{' .*? '"'; // not quite
  *
+ * Added modifications:
+ *  Parser extension to include several fields
+ *  Extension of bib regions
+ *  Bib entries in several divs
+ *    Same bib entries with different styles
+ *  Extra field considerations, such as notes or external resources
+ *  
  */
 
 function BibtexParser() {
@@ -464,7 +473,7 @@ function BibtexDisplay() {
                 // Split string by ',' keeping {words, and words} together
                 var name = this.getName(arrayString[i].split(/\,\s?(?![^\{]*\})/));
                 var author = format.clone();
-                var fullName = $.grep(name.slice(0, 4), Boolean).join(" ");
+                var fullName = $.grep(name.slice(4, 0), Boolean).join(" ");
                 author.attr('class', fullName);
                 author.find("span:not(a)").each(function() {
                     var index = Format[$(this).attr('class').toUpperCase()];
