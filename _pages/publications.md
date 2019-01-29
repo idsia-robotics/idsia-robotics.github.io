@@ -91,6 +91,9 @@ highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGi
   <span class="if website">
     <a class="website">(website)</a>
   </span>
+  <span class="if note">
+    <span class="note" style="font-weight: bold;"> </span>
+  </span>  
   <span class="if special_note">
     <span class="special_note" style="font-weight: bold;"> </span>
   </span>
