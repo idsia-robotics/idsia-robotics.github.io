@@ -47,6 +47,7 @@ highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGi
   </span-->
   <div class="options">
       <span class="if url">
+        <i class="fas fa-igloo"></i>
         <a class="url" alt="view online"><img src="/files/online.png"></a>
       </span>
       <span class="if file">
@@ -82,6 +83,12 @@ highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGi
   <span class="if year">
     <span class="year"></span>.
   </span>
+  <span class="if note">
+    (<span class="note" style="font-weight: bold;"> </span>)
+  </span>  
+  <span class="if special_note">
+    (<span class="special_note" style="font-weight: bold;"> </span>)
+  </span>  
   <span class="if url">
     <a class="url">(online)</a>
   </span>
@@ -90,12 +97,6 @@ highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGi
   </span>
   <span class="if website">
     <a class="website">(website)</a>
-  </span>
-  <span class="if note">
-    <span class="note" style="font-weight: bold;"> </span>
-  </span>  
-  <span class="if special_note">
-    <span class="special_note" style="font-weight: bold;"> </span>
   </span>
 
   <p/>

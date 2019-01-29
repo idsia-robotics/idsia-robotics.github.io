@@ -473,7 +473,7 @@ function BibtexDisplay() {
                 // Split string by ',' keeping {words, and words} together
                 var name = this.getName(arrayString[i].split(/\,\s?(?![^\{]*\})/));
                 var author = format.clone();
-                var fullName = $.grep(name.slice(4, 0), Boolean).join(" ");
+                var fullName = $.grep(name.slice(0, 4), Boolean).join(" ");
                 author.attr('class', fullName);
                 author.find("span:not(a)").each(function() {
                     var index = Format[$(this).attr('class').toUpperCase()];
