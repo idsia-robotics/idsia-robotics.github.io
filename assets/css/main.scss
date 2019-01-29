@@ -53,6 +53,7 @@ body {
 
 .bibtex_entry_thumbnail .title{
   display: block;
+  font-size: 1.2em;
   width: 98%;
   font-weight: bold;
   margin: 0.1em 0.0em 0.9em 0.0em;
@@ -65,10 +66,16 @@ body {
 .bibtex_entry_thumbnail .author{
   display: block;
   font-style: italic;
-  color: #999;
+  color: #555;
   font-size: 0.9em;
   margin-bottom: 0.5em;
 }
+.bibtex_entry_thumbnail .publishin{
+  color: #555;
+  font-size: 0.9em;
+  font-weight: bold;  
+}
+
 .bibtex_entry_thumbnail .options{
   text-align: right;
 }

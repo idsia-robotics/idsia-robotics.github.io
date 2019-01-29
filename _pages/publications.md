@@ -5,7 +5,7 @@ classes: wide
 title: "Publications"
 permalink: /publications/
 
-highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGiuGam2018|giusti2016machine|DucDicForBonDorMagMonOgrPinRetTriGam2014"
+highlights_bibkeys: "gromov2018robot|chavez-garcia2018ral|Guzzi2018a|BanGuzAmiFeoGiuGam2018|giusti2016machine|DucDicForBonDorMagMonOgrPinRetTriGam2014"
 
 ---
 
@@ -27,17 +27,19 @@ highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGi
     <span class="description"></span>
   </span>
   <span class="author"></span>
-  <span class="if journal">
-    <span class="journal"></span>.
-    <span class="if volume"> vol.
-      <span class="volume"></span>,
-    </span>
-    <span class="if issue"> issue
-      <span class="issue"></span>.
-    </span>
-  </span>
-  <span class="if booktitle">
-    <span class="booktitle"></span>.
+  <span class="publishin">
+      <span class="if journal">
+        <span class="journal"></span>.
+        <span class="if volume"> vol.
+          <span class="volume"></span>,
+        </span>
+        <span class="if issue"> issue
+          <span class="issue"></span>.
+        </span>
+      </span>
+      <span class="if booktitle">
+        <span class="booktitle"></span>.
+      </span>
   </span>
   <!--span class="if pages">pp.
     <span class="pages"></span>,
@@ -89,13 +91,13 @@ highlights_bibkeys: "gromov2018robot|chavez-garcia2018|Guzzi2018a|BanGuzAmiFeoGi
     (<span class="special_note" style="font-weight: bold;"> </span>)
   </span>  
   <span class="if url">
-    <a class="url">(online)</a>
+    <a class="url"><i class="fas fa-search"></i></a>
   </span>
   <span class="if file">
-    <a class="file">(pdf)</a>
+    <a class="file"><i class="fas fa-file"></i></a>
   </span>
   <span class="if website">
-    <a class="website">(website)</a>
+    <a class="website"><i class="fas fa-globe-europe"></i></a>
   </span>
 
   <p/>

@@ -493,12 +493,14 @@ function BibtexDisplay() {
                 }
             }
         } else {
-            newString = arrayString[0];
+            var commaName;                        
+            newString = arrayString[0].split(",").reverse().join(" "); //arrayString[0];
             for (i = 1; i < searchLength; i++) {
+                commaName = arrayString[i].split(",").reverse().join(" ");
                 if (i + 1 >= arrayString.length) {
-                    newString += ", and " + arrayString[i];
+                    newString += ", and " + commaName;
                 } else {
-                    newString += ", " + arrayString[i];
+                    newString += ", " + commaName;
                 }
             }
         }
