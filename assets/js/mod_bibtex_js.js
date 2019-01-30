@@ -1,6 +1,8 @@
 ﻿
 /* 
- * Author = Philip Cooksey
+ * Modified = Omar Chavez
+ * Edited = Dec 2018
+ * Modified = Philip Cooksey
  * Edited = July 2018
  * Website = https://github.com/pcooksey/bibtex-js
  * Credit = Henrik Mühe
@@ -22,6 +24,13 @@
  *  value_quotes -> '"' .*? '"'; // not quite
  *  value_braces -> '{' .*? '"'; // not quite
  *
+ * Added modifications:
+ *  Parser extension to include several fields
+ *  Extension of bib regions
+ *  Bib entries in several divs
+ *    Same bib entries with different styles
+ *  Extra field considerations, such as notes or external resources
+ *  
  */
 
 function BibtexParser() {
@@ -484,12 +493,14 @@ function BibtexDisplay() {
                 }
             }
         } else {
-            newString = arrayString[0];
+            var commaName;                        
+            newString = arrayString[0].split(",").reverse().join(" "); //arrayString[0];
             for (i = 1; i < searchLength; i++) {
+                commaName = arrayString[i].split(",").reverse().join(" ");
                 if (i + 1 >= arrayString.length) {
-                    newString += ", and " + arrayString[i];
+                    newString += ", and " + commaName;
                 } else {
-                    newString += ", " + arrayString[i];
+                    newString += ", " + commaName;
                 }
             }
         }

@@ -3,6 +3,19 @@
 %%  - explicity call bibtex key in publications.md
 %%  - highlights' order is taken from this file.
 %%
+%%  Please follow these guidelines when adding your bib entries:
+%%  - bibentry's id must be unique and clear, e.g. LastnameoffirstauthorYEARJournalname (I would consider this id to retrieve the corresponding pdf file)
+%%  - authors list should be formatted: LastnamesFirstAuthor, FirstnamesFirstAuthor and LastnamesSecondAuthor, FirstNamesSecondAuthor and ...., e.g. Chavez-Garcia, R. Omar and Guzzi, Jérôme and Gambardella, Luca M. and Giusti, Alessandro
+%%  - url field should point to the publication's url in publisher's domain
+%%  - note field should be use to indicate: paper's status such as -to appear-; publication's type such as -poster- or -demo-; publication's award -best paper award-
+%%  - special_note field is deprecated
+%%  - file field should point to the pdf's url (in case it is external to our domain)
+%%  - website field must point to the url of the source code/dataset or to a special publication's webpage, i.e. github.io
+%%  - for highlight publications also fill:
+%%    + description: short (3 sentences) text describing the work
+%%    + thumbnail: eye-catching image showcasing the work
+%%
+
 @inproceedings{mantegazza2019video,
   author = {Dario Mantegazza, Jérôme Guzzi, Luca M. Gambardella, Alessandro Giusti},
   title = {Video: Learning Vision-Based Quadrotor Control in User Proximity},
@@ -115,7 +128,7 @@ ISSN={2377-3766},
   video = {https://youtu.be/jpG8Jsmth2Y},
 }
 
-@article{chavez-garcia2018,
+@article{chavez-garcia2018ral,
 author="Chavez-Garcia, R. Omar and Guzzi, Jérôme and Gambardella, Luca M. and Giusti, Alessandro",
 title="Learning Ground Traversability from Simulations",
 journal="IEEE Robotics and Automation Letters",
@@ -129,8 +142,8 @@ url="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8280544&isnumber=83
 description="Applied to unseen large heightmaps to yield oriented traversability maps and plan traversable paths, our convolutional neural network can be trained for a specific robot model (wheeled, tracked, legged, snake-like).",
 file="/files/publications/chavez-garcia2018.pdf",
 thumbnail="/files/publications/chavez-garcia2018.jpg",
-website="http://romarcg.github.io/traversability_estimation/",
-special_note=""
+website="http://romarcg.github.io/traversability_estimation/"
+%note="e.g. (to appear)",
 }
 
 
@@ -174,7 +187,7 @@ special_note=""
   year = 	 {2018},
   pages = "1--16",
   OPTnote = {Accepted for publication},
-  note = {DOI: {https://link.springer.com/article/10.1007/s10514-018-9735-4}},
+  url = {https://link.springer.com/article/10.1007/s10514-018-9735-4},
   description = "A swarm of autonomous mobile robots with short range sensors needs to keep track of some mobile targets. We propose a novel optimization model for CMOMMT scenarios based on an integer linear formulation, using Bayesian networks.",
   url = {https://link.springer.com/article/10.1007%2Fs10514-018-9735-4},
  thumbnail="/files/publications/Linear.jpg"
