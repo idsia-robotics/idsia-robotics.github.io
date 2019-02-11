@@ -30,11 +30,11 @@ people_staff:
     alt: "Mirko Nava"
     title: "Mirko Nava"
     excerpt: "PhD Student"
-  - image_path: /assets/images/dario_mantegazza.png
+  - image_path: /assets/images/dario_mantegazza.jpg
     alt: "Dario Mantegazza"
     title: "Dario Mantegazza"
     excerpt: "PhD Student <br/> [Webpage](https://dario.carrd.co/)" 
-  - image_path: /assets/images/default_people.jpg
+  - image_path: /assets/images/default_people.png
     alt: "Prof. Alberto Piatti (with SUPSI-DFA)"
     title: "Prof. Alberto Piatti (with SUPSI-DFA)"
     excerpt: "Educational Robotics"
