@@ -34,7 +34,7 @@ people_staff:
     alt: "Dario Mantegazza"
     title: "Dario Mantegazza"
     excerpt: "PhD Student <br/> [Webpage](https://dario.carrd.co/)" 
-  - image_path: /assets/images/alberto_piatti.png
+  - image_path: /assets/images/alberto_piatti.jpg
     alt: "Prof. Alberto Piatti (with SUPSI-DFA)"
     title: "Prof. Alberto Piatti (with SUPSI-DFA)"
     excerpt: "Educational Robotics"
