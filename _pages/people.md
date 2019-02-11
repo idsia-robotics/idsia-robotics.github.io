@@ -18,7 +18,7 @@ people_staff:
     alt: "Dr. Omar Chavez-Garcia"
     title: "Dr. Omar Chavez-Garcia"
     excerpt: "Postdoc Researcher<br/> [Webpage](http://romarcg.xyz)"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/omar_chavez.jpg
     alt: "Dr. Jerome Guzzi"
     title: "Dr. Jerome Guzzi"
     excerpt: "Postdoc Researcher<br/> [Webpage](https://github.com/jeguzzi)"
@@ -34,11 +34,11 @@ people_staff:
     alt: "Dario Mantegazza"
     title: "Dario Mantegazza"
     excerpt: "PhD Student <br/> [Webpage](https://dario.carrd.co/)" 
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/alberto_piatti.png
     alt: "Prof. Alberto Piatti (with SUPSI-DFA)"
     title: "Prof. Alberto Piatti (with SUPSI-DFA)"
     excerpt: "Educational Robotics"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/lucio_negrini.jpg
     alt: "Dr. Lucio Negrini (with SUPSI-DFA)"
     title: "Dr. Lucio Negrini (with SUPSI-DFA)"
     excerpt: "Educational Robotics"
