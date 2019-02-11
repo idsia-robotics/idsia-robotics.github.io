@@ -18,7 +18,7 @@ people_staff:
     alt: "Dr. Omar Chavez-Garcia"
     title: "Dr. Omar Chavez-Garcia"
     excerpt: "Postdoc Researcher<br/> [Webpage](http://romarcg.xyz)"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/jerome_guzzi.jpg
     alt: "Dr. Jerome Guzzi"
     title: "Dr. Jerome Guzzi"
     excerpt: "Postdoc Researcher<br/> [Webpage](https://github.com/jeguzzi)"
