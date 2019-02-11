@@ -57,9 +57,16 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
-## Jan 15 2019
 
-Check out our recent paper (accepted to the IEEE Robotics and Automation Letters): Mirko Nava, Jérôme Guzzi, R. Omar Chavez-Garcia, Luca M. Gambardella and Alessandro Giusti: Learning Long-range Perception using Self-Supervision from Short-Range Sensors and Odometry ([more info and downloads](https://github.com/idsia-robotics/learning-long-range-perception)).
+## Jan 26 2019
+
+Check out our recent paper, accepted to the IEEE Robotics and Automation Letters with ICRA 2019 presentation: Mirko Nava, Jérôme Guzzi, R. Omar Chavez-Garcia, Luca M. Gambardella and Alessandro Giusti: Learning Long-range Perception using Self-Supervision from Short-Range Sensors and Odometry. [more info and downloads](https://github.com/idsia-robotics/learning-long-range-perception){: .btn .btn--info}
+
+We have three other papers accepted at ICRA 2019:
+* Jérôme Guzzi, R. Omar Chavez-Garcia, Luca Maria Gambardella, and Alessandro Giusti: On the Impact of Uncertainty for Path Planning
+* Boris Gromov, Gabriele Abbate, Luca Gambardella, and Alessandro Giusti: Proximity Human-Robot Interaction Using Pointing Gestures and a Wrist-mounted IMU. [more info and downloads](http://people.idsia.ch/~gromov/motion-relloc/){: .btn .btn--info}
+* Dario Mantegazza, Jérôme Guzzi, Luca Maria Gambardella, and Alessandro Giusti: Vision-based Control of a Quadrotor in User Proximity: Mediated vs End-to-End Learning Approaches. [more info and downloads](https://github.com/idsia-robotics/proximity-quadrotor-learning){: .btn .btn--info}
+
 
 ## Dec 22 2018
 
