@@ -9,50 +9,46 @@ people_staff:
   - image_path: /assets/images/luca_gambardella.jpg
     alt: "Prof. Luca Gambardella"
     title: "Prof. Luca Gambardella"
-    excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](http://people.idsia.ch/~luca)"
+    excerpt: "Director of IDSIA<br/>[Webpage](http://people.idsia.ch/~luca)"
   - image_path: /assets/images/alessandro_giusti.jpg
     alt: "Dr. Alessandro Giusti"
     title: "Dr. Alessandro Giusti"
-    excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](http://people.idsia.ch/~giusti)"
+    excerpt: "Senior Researcher, lab lead<br/>[Webpage](http://people.idsia.ch/~giusti)"
   - image_path: /assets/images/default_people.png
     alt: "Dr. Omar Chavez-Garcia"
     title: "Dr. Omar Chavez-Garcia"
-    excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](http://romarcg.xyz)"
+    excerpt: "Postdoc Researcher<br/> [Webpage](http://romarcg.xyz)"
   - image_path: /assets/images/default_people.png
     alt: "Dr. Jerome Guzzi"
     title: "Dr. Jerome Guzzi"
-    excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](https://github.com/jeguzzi)"
+    excerpt: "Postdoc Researcher<br/> [Webpage](https://github.com/jeguzzi)"
   - image_path: /assets/images/boris_gromov.jpg
     alt: "Boris Gromov"
     title: "Boris Gromov"
-    excerpt: "Description. Notes. Use **Markdown**. <br/> [Webpage](http://people.idsia.ch/~gromov)"
-  - image_path: /assets/images/default_people.png
-    alt: "Prof. Alberto Piatti (with SUPSI-DFA)"
-    title: "Prof. Alberto Piatti (with SUPSI-DFA)"
-    excerpt: "Description. Notes. Use **Markdown**."
-  - image_path: /assets/images/default_people.png
-    alt: "Dr. Lucio Negrini (with SUPSI-DFA)"
-    title: "Dr. Lucio Negrini (with SUPSI-DFA)"
-    excerpt: "Description. Notes. Use **Markdown**."
-
-
-people_students:
+    excerpt: "PhD Student, Human-Robot Interaction<br/> [Webpage](http://people.idsia.ch/~gromov)"
   - image_path: /assets/images/mirko_nava.jpg
     alt: "Mirko Nava"
     title: "Mirko Nava"
-    excerpt: "Description. Notes. Use **Markdown**."
+    excerpt: "PhD Student"
   - image_path: /assets/images/default_people.png
     alt: "Dario Mantegazza"
     title: "Dario Mantegazza"
-    excerpt: "Description. Notes. Use **Markdown**."
+    excerpt: "PhD Student"
+  - image_path: /assets/images/default_people.png
+    alt: "Prof. Alberto Piatti (with SUPSI-DFA)"
+    title: "Prof. Alberto Piatti (with SUPSI-DFA)"
+    excerpt: "Educational Robotics"
+  - image_path: /assets/images/default_people.png
+    alt: "Dr. Lucio Negrini (with SUPSI-DFA)"
+    title: "Dr. Lucio Negrini (with SUPSI-DFA)"
+    excerpt: "Educational Robotics"
+
+
+people_students:
   - image_path: /assets/images/default_people.png
     alt: "Gabriele Abbate"
     title: "Gabriele Abbate"
-    excerpt: "Description. Notes. Use **Markdown**."
-  - image_path: /assets/images/default_people.png
-    alt: "Sonny Monti"
-    title: "Sonny Monti"
-    excerpt: "Description. Notes. Use **Markdown**."
+    excerpt: "Intern"
 
 ---
 
