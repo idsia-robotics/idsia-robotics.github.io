@@ -14,11 +14,11 @@ people_staff:
     alt: "Dr. Alessandro Giusti"
     title: "Dr. Alessandro Giusti"
     excerpt: "Senior Researcher, lab lead<br/>[Webpage](http://people.idsia.ch/~giusti)"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/omar_chavez.jpg
     alt: "Dr. Omar Chavez-Garcia"
     title: "Dr. Omar Chavez-Garcia"
     excerpt: "Postdoc Researcher<br/> [Webpage](http://romarcg.xyz)"
-  - image_path: /assets/images/omar_chavez.jpg
+  - image_path: /assets/images/default_people.png
     alt: "Dr. Jerome Guzzi"
     title: "Dr. Jerome Guzzi"
     excerpt: "Postdoc Researcher<br/> [Webpage](https://github.com/jeguzzi)"
