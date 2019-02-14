@@ -21,7 +21,7 @@ people_staff:
   - image_path: /assets/images/jerome_guzzi.jpg
     alt: "Dr. Jerome Guzzi"
     title: "Dr. Jerome Guzzi"
-    excerpt: "Postdoc Researcher<br/> [Webpage](https://github.com/jeguzzi)"
+    excerpt: "Researcher<br/> [Webpage](https://github.com/jeguzzi)"
   - image_path: /assets/images/boris_gromov.jpg
     alt: "Boris Gromov"
     title: "Boris Gromov"
