@@ -57,6 +57,9 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+## Mar 14 2019
+
+Research on [pointing gestures for proximity interaction](http://people.idsia.ch/~gromov/pointing-gestures/) by our PhD student [Boris Gromov](http://people.idsia.ch/~gromov) got a best demonstration award **and** an honorable mention for the best video award at HRI 2019! Congratulations!
 
 ## Jan 26 2019
 
