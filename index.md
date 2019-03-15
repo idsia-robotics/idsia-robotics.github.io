@@ -67,7 +67,7 @@ Check out our recent paper, accepted to the IEEE Robotics and Automation Letters
 
 We have three other papers accepted at ICRA 2019:
 * Jérôme Guzzi, R. Omar Chavez-Garcia, Luca Maria Gambardella, and Alessandro Giusti: On the Impact of Uncertainty for Path Planning
-* Boris Gromov, Gabriele Abbate, Luca Gambardella, and Alessandro Giusti: Proximity Human-Robot Interaction Using Pointing Gestures and a Wrist-mounted IMU [more info](http://people.idsia.ch/~gromov/motion-relloc/){: .btn .btn--info .btn-sm}
+* Boris Gromov, Gabriele Abbate, Luca Gambardella, and Alessandro Giusti: Proximity Human-Robot Interaction Using Pointing Gestures and a Wrist-mounted IMU [more info](http://people.idsia.ch/~gromov/proximity-hri-pipeline){: .btn .btn--info .btn-sm}
 * Dario Mantegazza, Jérôme Guzzi, Luca Maria Gambardella, and Alessandro Giusti: Vision-based Control of a Quadrotor in User Proximity: Mediated vs End-to-End Learning Approaches [more info](https://github.com/idsia-robotics/proximity-quadrotor-learning){: .btn .btn--info .btn-sm}
 
 
