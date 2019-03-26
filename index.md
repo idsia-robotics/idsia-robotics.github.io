@@ -57,8 +57,11 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
-## Mar 14 2019
+## Mar 22 2019
+Congratulations to our student Simone Mellace, who won the [Swissengineering](http://www.swissengineering-ti.ch/) [Best Thesis Award](http://www.fondazionepremio.ch/premiati/#2019) for his work on [Realtime Generation of Audible Textures Inspired by a Video Stream](https://github.com/idsia-robotics/audible-textures-from-video)!
 
+<figure style="width: 30%" class="align-right"><img src="/files/hri2019awards.jpg"></figure>
+## Mar 14 2019
 Research on [pointing gestures for proximity interaction](http://people.idsia.ch/~gromov/pointing-gestures/) by our PhD student [Boris Gromov](http://people.idsia.ch/~gromov) got a best demonstration award **and** an honorable mention for the best video award at HRI 2019! Congratulations!
 
 ## Jan 26 2019
