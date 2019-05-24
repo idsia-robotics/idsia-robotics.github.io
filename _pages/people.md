@@ -17,7 +17,7 @@ people_staff:
   - image_path: /assets/images/omar_chavez.jpg
     alt: "Dr. Omar Chavez-Garcia"
     title: "Dr. Omar Chavez-Garcia"
-    excerpt: "Postdoc Researcher<br/> [Webpage](http://romarcg.xyz)"
+    excerpt: "Researcher<br/> [Webpage](http://romarcg.xyz)"
   - image_path: /assets/images/jerome_guzzi.jpg
     alt: "Dr. Jerome Guzzi"
     title: "Dr. Jerome Guzzi"
@@ -92,7 +92,6 @@ people_students:
     content: none;
 }
 
-
 </style>
 
 # People
@@ -104,7 +103,6 @@ people_students:
 ## Current students and interns
 
 {% include feature_row id="people_students" %}
-
 
 ## Past members
 
