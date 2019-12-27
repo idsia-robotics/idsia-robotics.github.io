@@ -57,6 +57,9 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+## Sep 12 2019
+The survey article "[The current state and future outlook of rescue robotics](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21887)", which we contributed to, is now published in the Journal of Field Robotics.
+
 ## Mar 22 2019
 Congratulations to our student Simone Mellace, who won the [Swissengineering](http://www.swissengineering-ti.ch/) [Best Thesis Award](http://www.fondazionepremio.ch/premiati/#2019) for his work on [Realtime Generation of Audible Textures Inspired by a Video Stream](https://github.com/idsia-robotics/audible-textures-from-video)!
 
