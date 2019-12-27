@@ -58,7 +58,10 @@ We work with both flying and ground mobile robots; our current research focuses 
 # News
 
 ## Sep 12 2019
-The survey article "[The current state and future outlook of rescue robotics](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21887)", which we contributed to, is now published in the Journal of Field Robotics.
+The survey article "[The current state and future outlook of rescue robotics](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21887)", which the lab contributed to in the context of the NCCR Robotics, is now published in the Journal of Field Robotics.
+
+## Sep 4 2019
+[Neural Rope](http://www.neuralrope.ch/), an interactive, public art installation by Prof. Gambardella and artist Alex Dorici, is now live and on permanent display in the Lugano Station Underpass. The ML and software infrastructure was designed and implemented by our lab. The opening was broadcast live on national TV during the [2019 Swiss Digital Day](https://www.digitaltag.swiss/).
 
 ## Mar 22 2019
 Congratulations to our student Simone Mellace, who won the [Swissengineering](http://www.swissengineering-ti.ch/) [Best Thesis Award](http://www.fondazionepremio.ch/premiati/#2019) for his work on [Realtime Generation of Audible Textures Inspired by a Video Stream](https://github.com/idsia-robotics/audible-textures-from-video)!
