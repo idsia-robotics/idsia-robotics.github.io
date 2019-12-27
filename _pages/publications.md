@@ -105,12 +105,13 @@ highlights_bibkeys: "gromov2018robot|chavez-garcia2018ral|Guzzi2018a|BanGuzAmiFe
 </div>
 
 
-<!--
+<!---
 ## Highlights
 <div class="bibtex_display" bibtexkeys="{{ page.highlights_bibkeys }}" template="display_hightlights"></div>
+-->
 
 ## Full list
--->
+
 
 <div class="bibtex_display" template="display_fulllist"></div>
 
