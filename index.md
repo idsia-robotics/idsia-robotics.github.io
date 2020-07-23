@@ -38,7 +38,7 @@ p5:
 
 # About
 
-<figure style="width: 20%" class="align-right"><img src="files/idsia_logo.png"></figure> 
+<figure style="width: 20%" class="align-right"><img src="files/idsia_logo.png"></figure>
 Our lab is part of [IDSIA](http://idsia.ch) (Dalle Molle Institute for Artificial Intelligence), affiliated with both [USI](http://usi.ch) (Università della Svizzera Italiana) and [SUPSI-DTI](http://www.supsi.ch/dti/) (Scuola Universitaria Professionale della Svizzera Italiana, Dipartimento di Tecnologie Innovative).
 
 The lab is jointly led by IDSIA Director [Prof. Luca M. Gambardella](http://www.idsia.ch/~luca) and senior researcher [Dr. Alessandro Giusti](http://www.idsia.ch/~giusti); it is active in basic and applied research in autonomous mobile robotics, in close collaboration with other IDSIA researchers, namely the [Imprecise Probability Group](http://ipg.idsia.ch/) led by [Prof. Marco Zaffalon](http://people.idsia.ch/~zaffalon/) and the deep learning group led by [Prof. Jürgen Schmidhuber](http://people.idsia.ch/~juergen/).
@@ -61,7 +61,7 @@ We work with both flying and ground mobile robots; our current research focuses 
 Our highly-cited paper “[Machine-Learning Method for Quality of Transmission Prediction of Unestablished Lightpaths](https://ieeexplore.ieee.org/document/8293995)” (with [Cristina Rottondi](https://www.telematica.polito.it/member/cristina-rottondi/) and colleagues) published on the IEEE/OSA Journal of Optical Communications and Networking won the prestigious “[IEEE Communications Society Charles Kao Award](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-charles-kao-award-best-optical-communications)”.
 
 ## Feb 10 2020
-Check out our recent paper, accepted to the IEEE Robotics and Automation Letters with ICRA 2020 presentation: "[Learning Long-range Perception using Self-Supervision from Short-Range Sensors and Odometry](https://ieeexplore.ieee.org/abstract/document/8988152)". [code](https://github.com/idsia-robotics/pplanning-local-estimations){: .btn .btn--info .btn-sm}.  
+Check out our recent paper, accepted to the IEEE Robotics and Automation Letters with ICRA 2020 presentation: "[Path Planning With Local Motion Estimations](https://ieeexplore.ieee.org/abstract/document/8988152)". [code](https://github.com/idsia-robotics/pplanning-local-estimations){: .btn .btn--info .btn-sm}.  
 
 We are presenting one additional paper at ICRA 2020: Boris Gromov, Jerome Guzzi, Luca Gambardella, and Alessandro Giusti: “Intuitive 3D Control of a Quadrotor in User Proximity with Pointing Gestures” [more info](http://people.idsia.ch/~gromov/3d-pointing/){: .btn .btn--info .btn-sm}
 
@@ -116,7 +116,7 @@ We received an [Optimus Agora' Award](http://www.snf.ch/en/researchinFocus/newsr
 Our research was featured in the Neue Zürcher Zeitung, one of the most prestigious daily swiss newspapers.
 
 ## Jul 18 2018
-Congratulations to our MSc students Mirko Nava and Dario Mangegazza, who successfully defened their thesis. 
+Congratulations to our MSc students Mirko Nava and Dario Mangegazza, who successfully defened their thesis.
 
 ## Jun 29 2018
 Our paper "*Robot Identification and Localization with Pointing Gestures*" was accepted at IROS 2018.  [Details](http://people.idsia.ch/~gromov/motion-relloc/){: .btn .btn--info .btn-sm}
