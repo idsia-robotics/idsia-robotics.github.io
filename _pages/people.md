@@ -42,14 +42,40 @@ people_staff:
     alt: "Dr. Lucio Negrini (with SUPSI-DFA)"
     title: "Dr. Lucio Negrini (with SUPSI-DFA)"
     excerpt: "Educational Robotics"
+  - image_path: /assets/images/default_people.png
+    alt: "Dr. Antonio Paolillo"
+    title: "Dr. Antonio Paolillo"
+    excerpt: "Researcher"
+  - image_path: /assets/images/default_people.png
+    alt: "Dr. Daniele Palossi"
+    title: "Dr. Daniele Palossi"
+    excerpt: "Researcher"
   - image_path: /assets/images/gabriele_abbate.png
     alt: "Gabriele Abbate"
     title: "Gabriele Abbate"
     excerpt: "Researcher"
 
 people_students:
-
-
+  - image_path: /assets/images/default_people.png
+    alt: "Nicky Zimmerman"
+    title: "Nicky Zimmerman"
+    excerpt: "Intern"
+  - image_path: /assets/images/default_people.png
+    alt: "Andrea Bennati"
+    title: "Andrea Bennati"
+    excerpt: "Master Student"
+  - image_path: /assets/images/default_people.png
+    alt: "Luca Brena"
+    title: "Luca Brena"
+    excerpt: "Master Student"
+  - image_path: /assets/images/default_people.png
+    alt: "Elia Cereda"
+    title: "Elia Cereda"
+    excerpt: "Master Student"
+  - image_path: /assets/images/default_people.png
+    alt: "Marco Ferri"
+    title: "Marco Ferri"
+    excerpt: "Master Student"
 ---
 
 <style>
