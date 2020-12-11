@@ -42,10 +42,10 @@ people_staff:
     alt: "Dr. Lucio Negrini (with SUPSI-DFA)"
     title: "Dr. Lucio Negrini (with SUPSI-DFA)"
     excerpt: "Educational Robotics"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/antonio_paolillo.jpg
     alt: "Dr. Antonio Paolillo"
     title: "Dr. Antonio Paolillo"
-    excerpt: "Researcher"
+    excerpt: "Researcher<br/> [Webpage](https://totopaolillo.github.io/)"
   - image_path: /assets/images/default_people.png
     alt: "Dr. Daniele Palossi"
     title: "Dr. Daniele Palossi"
