@@ -45,7 +45,7 @@ people_staff:
 
 
 people_students:
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/gabriele_abbate.jpeg
     alt: "Gabriele Abbate"
     title: "Gabriele Abbate"
     excerpt: "Intern"
