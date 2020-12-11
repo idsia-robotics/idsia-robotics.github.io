@@ -72,10 +72,10 @@ people_students:
     alt: "Elia Cereda"
     title: "Elia Cereda"
     excerpt: "Master Student"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/marco_ferri.jpg
     alt: "Marco Ferri"
     title: "Marco Ferri"
-    excerpt: "Master Student"
+    excerpt: "Master Student<br/> [Webpage](https://www.linkedin.com/in/marco-ferri-ita/)"
 ---
 
 <style>
