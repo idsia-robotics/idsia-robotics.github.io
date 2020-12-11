@@ -42,13 +42,13 @@ people_staff:
     alt: "Dr. Lucio Negrini (with SUPSI-DFA)"
     title: "Dr. Lucio Negrini (with SUPSI-DFA)"
     excerpt: "Educational Robotics"
-
-
-people_students:
   - image_path: /assets/images/gabriele_abbate.png
     alt: "Gabriele Abbate"
     title: "Gabriele Abbate"
-    excerpt: "Intern"
+    excerpt: "Researcher"
+
+people_students:
+
 
 ---
 
