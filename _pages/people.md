@@ -56,7 +56,7 @@ people_staff:
     excerpt: "Researcher"
 
 people_students:
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/nicky_zimmerman.png
     alt: "Nicky Zimmerman"
     title: "Nicky Zimmerman"
     excerpt: "Intern"
