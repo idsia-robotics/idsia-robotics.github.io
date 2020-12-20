@@ -60,11 +60,11 @@ people_students:
     alt: "Nicky Zimmerman"
     title: "Nicky Zimmerman"
     excerpt: "Intern"
-  - image_path: /assets/images/andrea_bennati.png
+  - image_path: /assets/images/andrea_bennati.jpeg
     alt: "Andrea Bennati"
     title: "Andrea Bennati"
     excerpt: "Master Student"
-  - image_path: /assets/images/default_people.jpeg
+  - image_path: /assets/images/default_people.png
     alt: "Luca Brena"
     title: "Luca Brena"
     excerpt: "Master Student"
