@@ -64,7 +64,7 @@ people_students:
     alt: "Andrea Bennati"
     title: "Andrea Bennati"
     excerpt: "Master Student"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/andrea_bennati.jpeg
     alt: "Luca Brena"
     title: "Luca Brena"
     excerpt: "Master Student"
