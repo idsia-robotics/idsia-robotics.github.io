@@ -46,7 +46,7 @@ people_staff:
     alt: "Dr. Antonio Paolillo"
     title: "Dr. Antonio Paolillo"
     excerpt: "Researcher<br/> [Webpage](https://totopaolillo.github.io/)"
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/daniele_palossi.png
     alt: "Dr. Daniele Palossi"
     title: "Dr. Daniele Palossi"
     excerpt: "Researcher"
