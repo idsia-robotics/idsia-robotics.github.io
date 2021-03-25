@@ -57,6 +57,9 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+## Mar 25 2021
+Check out our new preprint paper on arXiv, “[Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs,](https://arxiv.org/abs/2103.10873)” made in collaboration with [ETH Zürich](https://iis.ee.ethz.ch/) and the [University of Bologna](https://dei.unibo.it/it).
+
 ## May 20 2020
 Our highly-cited paper “[Machine-Learning Method for Quality of Transmission Prediction of Unestablished Lightpaths](https://ieeexplore.ieee.org/document/8293995)” (with [Cristina Rottondi](https://www.telematica.polito.it/member/cristina-rottondi/) and colleagues) published on the IEEE/OSA Journal of Optical Communications and Networking won the prestigious “[IEEE Communications Society Charles Kao Award](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-charles-kao-award-best-optical-communications)”.
 
