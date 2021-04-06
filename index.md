@@ -41,7 +41,7 @@ p5:
 <figure style="width: 20%" class="align-right"><img src="files/idsia_logo.png"></figure>
 Our lab is part of [IDSIA](http://idsia.ch) (Dalle Molle Institute for Artificial Intelligence), affiliated with both [USI](http://usi.ch) (Università della Svizzera Italiana) and [SUPSI-DTI](http://www.supsi.ch/dti/) (Scuola Universitaria Professionale della Svizzera Italiana, Dipartimento di Tecnologie Innovative).
 
-The lab is jointly led by IDSIA Director [Prof. Luca M. Gambardella](http://www.idsia.ch/~luca) and senior researcher [Dr. Alessandro Giusti](http://www.idsia.ch/~giusti); it is active in basic and applied research in autonomous mobile robotics, in close collaboration with other IDSIA researchers, namely the [Imprecise Probability Group](http://ipg.idsia.ch/) led by [Prof. Marco Zaffalon](http://people.idsia.ch/~zaffalon/) and the deep learning group led by [Prof. Jürgen Schmidhuber](http://people.idsia.ch/~juergen/).
+The lab is jointy led by [Dr. Alessandro Giusti](http://www.idsia.ch/~giusti) (Senior Researcher at IDSIA USI-SUPSI), and [Prof. Luca M. Gambardella](http://www.idsia.ch/~luca) (Professor at USI); it is active in basic and applied research in autonomous mobile robotics, in close collaboration with other IDSIA researchers, namely the [Imprecise Probability Group](http://ipg.idsia.ch/) led by [Prof. Marco Zaffalon](http://people.idsia.ch/~zaffalon/) and the deep learning group led by [Prof. Jürgen Schmidhuber](http://people.idsia.ch/~juergen/).
 
 We are part of the [National Centre of Competence in Research](https://nccr-robotics.ch) Robotics: a Swiss nationwide organization funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) pulling together top researchers from all over the country with the objective of developing new, human oriented robotic technology for improving our quality of life. In this context, we routinely collaborate with other Swiss robotics labs at [ETH Zurich](http://www.ethz.ch/), [EPFL](http://epfl.ch/) and the [University of Zurich](http://www.uzh.ch/index.html).
 
@@ -59,6 +59,11 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 ## Mar 25 2021
 Check out our new preprint paper on arXiv, “[Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs,](https://arxiv.org/abs/2103.10873)” made in collaboration with [ETH Zürich](https://iis.ee.ethz.ch/) and the [University of Bologna](https://dei.unibo.it/it).
+
+## Feb 28 2021
+Check out our recent open access paper, accepted to the IEEE Robotics and Automation Letters with ICRA 2021 presentation: "[State-Consistency Loss for Learning Spatial Perception Tasks from Partial Labels](https://ieeexplore.ieee.org/document/9345348/)". [more info & videos](https://github.com/idsia-robotics/state-consistency-loss){: .btn .btn--info .btn-sm}
+
+We are also presenting at ICRA 2021: Gabriele Abbate, Boris Gromov, Luca Gambardella, Alessandro Giusti: "Pointing at Moving Robots: Detecting Events from Wrist IMU Data" [more info & videos](https://github.com/idsia-robotics/pointing-detection-moving-robots){: .btn .btn--info .btn-sm}
 
 ## May 20 2020
 Our highly-cited paper “[Machine-Learning Method for Quality of Transmission Prediction of Unestablished Lightpaths](https://ieeexplore.ieee.org/document/8293995)” (with [Cristina Rottondi](https://www.telematica.polito.it/member/cristina-rottondi/) and colleagues) published on the IEEE/OSA Journal of Optical Communications and Networking won the prestigious “[IEEE Communications Society Charles Kao Award](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-charles-kao-award-best-optical-communications)”.
