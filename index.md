@@ -1,39 +1,71 @@
 ---
 layout: splash
-title: "The IDSIA Robotics Lab"
+title: The IDSIA Robotics Lab
 header:
   image: /files/forest_header.jpg
-  caption: "Photo credit: [Hardy Müller](https://hardy-mueller.com), courtesy [National Geographic Magazine](https://www.nationalgeographic.com/magazine/)"
-
+  caption: >-
+    Photo credit: [Hardy Müller](https://hardy-mueller.com), courtesy [National
+    Geographic Magazine](https://www.nationalgeographic.com/magazine/)
 p1:
-  - image_path: "/files/traversability.jpg"
-    title: "Learning for perception and navigation"
-    excerpt: "We apply state-of-the-art deep learning techniques for vision-based quadrotor control in human proximity ([link](https://github.com/idsia-robotics/proximity-quadrotor-learning)) and for traversability estimation for ground robots on challenging terrain ([link](https://arxiv.org/abs/1709.05368)).  We are also developing self-supervised techniques for autonomously learning to perceive long-range obstacles ([link](https://github.com/Mirko-Nava/Learning-Long-range-Perception)).  We gained widespread media attention for developing deep nets that guide a quadrotor [to follow a forest trail](http://people.idsia.ch/~giusti/forest/web/) (with the [Robotics and Perception Group](http://rpg.ifi.uzh.ch/) at the University of Zurich).  Previously, we released software for robustly [perceiving people from a low-lying viewpoint](http://people.idsia.ch/~giusti/hri14/)"
-
-
+  - image_path: /files/traversability.jpg
+    title: Learning for perception and navigation
+    excerpt: >-
+      We apply state-of-the-art deep learning techniques for vision-based
+      quadrotor control in human proximity
+      ([link](https://github.com/idsia-robotics/proximity-quadrotor-learning))
+      and for traversability estimation for ground robots on challenging terrain
+      ([link](https://arxiv.org/abs/1709.05368)).  We are also developing
+      self-supervised techniques for autonomously learning to perceive
+      long-range obstacles
+      ([link](https://github.com/Mirko-Nava/Learning-Long-range-Perception)). 
+      We gained widespread media attention for developing deep nets that guide a
+      quadrotor [to follow a forest
+      trail](http://people.idsia.ch/~giusti/forest/web/) (with the [Robotics and
+      Perception Group](http://rpg.ifi.uzh.ch/) at the University of Zurich). 
+      Previously, we released software for robustly [perceiving people from a
+      low-lying viewpoint](http://people.idsia.ch/~giusti/hri14/)
 p2:
-  - image_path: "/files/boris_pointing.jpg"
-    title: "Pointing-based human-robot interaction"
-    excerpt: "PhD student Boris Gromov is developing techniques based on pointing gestures sensed by wearable devices to [identify, localize and control robots](http://people.idsia.ch/~gromov/motion-relloc/); a possible application is to [precisely land quadrotors](http://people.idsia.ch/~gromov/hri-landing/) without any previuos training."
-
+  - image_path: /files/boris_pointing.jpg
+    title: Pointing-based human-robot interaction
+    excerpt: >-
+      PhD student Boris Gromov is developing techniques based on pointing
+      gestures sensed by wearable devices to [identify, localize and control
+      robots](http://people.idsia.ch/~gromov/motion-relloc/); a possible
+      application is to [precisely land
+      quadrotors](http://people.idsia.ch/~gromov/hri-landing/) without any
+      previuos training.
 p3:
-  - image_path: "/files/thymio.jpg"
-    title: "Robotics for education"
-    excerpt: "Using robots in education is a very important interdisciplinary field of research, at the crossing between educational sciences and robotics.  The lab is part of '*Introducing People to Research in Robotics through an Extended Peer Community in Southern Switzerland*': a project awarded the Optimus Agora Prize by the Swiss National Science Foundation"
-    url: "http://www.snf.ch/en/researchinFocus/newsroom/Pages/news-180920-robots-in-the-classroom.aspx"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
+  - image_path: /files/thymio.jpg
+    title: Robotics for education
+    excerpt: >-
+      Using robots in education is a very important interdisciplinary field of
+      research, at the crossing between educational sciences and robotics.  The
+      lab is part of '*Introducing People to Research in Robotics through an
+      Extended Peer Community in Southern Switzerland*': a project awarded the
+      Optimus Agora Prize by the Swiss National Science Foundation
+    url: >-
+      http://www.snf.ch/en/researchinFocus/newsroom/Pages/news-180920-robots-in-the-classroom.aspx
+    btn_label: Read More
+    btn_class: btn--primary
 p4:
-  - image_path: "/files/footbots.jpg"
-    title: "Collaboration and planning in multi-robot systems"
-    excerpt: "We are exploring the use of [artificial emotions](https://github.com/jeguzzi/artificial-emotions) for facilitating multi-robot coordination; in the same field, we previously developed [human-friendly](https://youtu.be/TYKvjofN8LE) robot navigation algorithms and [many other works](http://www.giannidicaro.com/robotics.html)"
-
+  - image_path: /files/footbots.jpg
+    title: Collaboration and planning in multi-robot systems
+    excerpt: >-
+      We are exploring the use of [artificial
+      emotions](https://github.com/jeguzzi/artificial-emotions) for facilitating
+      multi-robot coordination; in the same field, we previously developed
+      [human-friendly](https://youtu.be/TYKvjofN8LE) robot navigation algorithms
+      and [many other works](http://www.giannidicaro.com/robotics.html)
 p5:
-  - image_path: "/files/industrial.jpg"
-    title: "Applied machine learning for industrial robotics"
-    excerpt: "The lab is active in several applied projects, deploying state-of-the-art deep learning techniques for sensing and process control in [electrical discharge machining](https://en.wikipedia.org/wiki/Electrical_discharge_machining) and large 3D-printers for complex metal objects"
-
+  - image_path: /files/industrial.jpg
+    title: Applied machine learning for industrial robotics
+    excerpt: >-
+      The lab is active in several applied projects, deploying state-of-the-art
+      deep learning techniques for sensing and process control in [electrical
+      discharge
+      machining](https://en.wikipedia.org/wiki/Electrical_discharge_machining)
+      and large 3D-printers for complex metal objects
+published: true
 ---
 
 # About
@@ -41,7 +73,7 @@ p5:
 <figure style="width: 20%" class="align-right"><img src="files/idsia_logo.png"></figure>
 Our lab is part of [IDSIA](http://idsia.ch) (Dalle Molle Institute for Artificial Intelligence), affiliated with both [USI](http://usi.ch) (Università della Svizzera Italiana) and [SUPSI-DTI](http://www.supsi.ch/dti/) (Scuola Universitaria Professionale della Svizzera Italiana, Dipartimento di Tecnologie Innovative).
 
-The lab is jointy led by [Dr. Alessandro Giusti](http://www.idsia.ch/~giusti) (Senior Researcher at IDSIA USI-SUPSI), and [Prof. Luca M. Gambardella](http://www.idsia.ch/~luca) (Professor at USI); it is active in basic and applied research in autonomous mobile robotics, in close collaboration with other IDSIA researchers, namely the [Imprecise Probability Group](http://ipg.idsia.ch/) led by [Prof. Marco Zaffalon](http://people.idsia.ch/~zaffalon/) and the deep learning group led by [Prof. Jürgen Schmidhuber](http://people.idsia.ch/~juergen/).
+The lab is jointy led by [Alessandro Giusti](http://www.idsia.ch/~giusti) (Professor at IDSIA USI-SUPSI), and [Luca M. Gambardella](http://www.idsia.ch/~luca) (Professor at USI); it is active in basic and applied research in autonomous mobile robotics, in close collaboration with other IDSIA researchers, namely the [Imprecise Probability Group](http://ipg.idsia.ch/) led by [Prof. Marco Zaffalon](http://people.idsia.ch/~zaffalon/) and the deep learning group led by [Prof. Jürgen Schmidhuber](http://people.idsia.ch/~juergen/).
 
 We are part of the [National Centre of Competence in Research](https://nccr-robotics.ch) Robotics: a Swiss nationwide organization funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) pulling together top researchers from all over the country with the objective of developing new, human oriented robotic technology for improving our quality of life. In this context, we routinely collaborate with other Swiss robotics labs at [ETH Zurich](http://www.ethz.ch/), [EPFL](http://epfl.ch/) and the [University of Zurich](http://www.uzh.ch/index.html).
 
