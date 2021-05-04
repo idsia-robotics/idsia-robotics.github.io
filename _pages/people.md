@@ -59,7 +59,15 @@ people_staff:
     alt: Prof. Lucio Negrini (with SUPSI-DFA)
     title: Prof. Lucio Negrini (with SUPSI-DFA)
     excerpt: Educational Robotics
-people_students: null
+people_students:
+  - image_path: /assets/images/default_people.png
+    alt: Stefano Bonato
+    title: Stefano Bonato
+    excerpt: Intern
+  - image_path: /assets/images/default_people.png
+    alt: Luca Brena
+    title: Luca Brena
+    excerpt: Intern
 published: true
 ---
 
