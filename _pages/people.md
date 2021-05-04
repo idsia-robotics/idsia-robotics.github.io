@@ -28,7 +28,13 @@ people_staff:
   - image_path: /assets/images/daniele_palossi.png
     alt: Dr. Daniele Palossi
     title: Dr. Daniele Palossi
-    excerpt: Researcher
+    excerpt: >-
+      Researcher<br/>
+      [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)
+  - image_path: /assets/images/default_people.png
+    alt: Dr. Jamal Saeedi
+    title: Dr. Jamal Saeedi
+    excerpt: 'Researcher<br/> [Webpage](https://www.linkedin.com/in/jamalsaeedi/)'
   - image_path: /assets/images/gabriele_abbate.png
     alt: Gabriele Abbate
     title: Gabriele Abbate
@@ -53,29 +59,7 @@ people_staff:
     alt: Prof. Lucio Negrini (with SUPSI-DFA)
     title: Prof. Lucio Negrini (with SUPSI-DFA)
     excerpt: Educational Robotics
-people_students:
-  - image_path: /assets/images/nicky_zimmerman.png
-    alt: Nicky Zimmerman
-    title: Nicky Zimmerman
-    excerpt: Intern
-  - image_path: /assets/images/andrea_bennati.jpeg
-    alt: Andrea Bennati
-    title: Andrea Bennati
-    excerpt: Master Student
-  - image_path: /assets/images/default_people.png
-    alt: Luca Brena
-    title: Luca Brena
-    excerpt: Master Student
-  - image_path: /assets/images/default_people.png
-    alt: Elia Cereda
-    title: Elia Cereda
-    excerpt: Master Student
-  - image_path: /assets/images/marco_ferri.jpg
-    alt: Marco Ferri
-    title: Marco Ferri
-    excerpt: >-
-      Master Student<br/>
-      [Webpage](https://www.linkedin.com/in/marco-ferri-ita/)
+people_students: null
 published: true
 ---
 
