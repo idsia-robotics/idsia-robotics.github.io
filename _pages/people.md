@@ -5,14 +5,14 @@ classes: wide
 title: People
 permalink: /people/
 people_staff:
+  - image_path: /assets/images/alessandro_giusti.jpg
+    alt: Prof. Alessandro Giusti
+    title: Prof. Alessandro Giusti
+    excerpt: 'SUPSI Professor, lab lead<br/>[Webpage](http://people.idsia.ch/~giusti)'
   - image_path: /assets/images/luca_gambardella.jpg
     alt: Prof. Luca Gambardella
     title: Prof. Luca Gambardella
-    excerpt: 'Director of IDSIA<br/>[Webpage](http://people.idsia.ch/~luca)'
-  - image_path: /assets/images/alessandro_giusti.jpg
-    alt: Dr. Alessandro Giusti
-    title: Dr. Alessandro Giusti
-    excerpt: 'Senior Researcher, lab lead<br/>[Webpage](http://people.idsia.ch/~giusti)'
+    excerpt: 'USI Professor<br/>[Webpage](http://people.idsia.ch/~luca)'
   - image_path: /assets/images/omar_chavez.jpg
     alt: Dr. Omar Chavez-Garcia
     title: Dr. Omar Chavez-Garcia
@@ -21,28 +21,6 @@ people_staff:
     alt: Dr. Jerome Guzzi
     title: Dr. Jerome Guzzi
     excerpt: 'Researcher<br/> [Webpage](https://github.com/jeguzzi)'
-  - image_path: /assets/images/boris_gromov.jpg
-    alt: Boris Gromov
-    title: Boris Gromov
-    excerpt: >-
-      PhD Student, Human-Robot Interaction<br/>
-      [Webpage](http://people.idsia.ch/~gromov)
-  - image_path: /assets/images/mirko_nava.jpg
-    alt: Mirko Nava
-    title: Mirko Nava
-    excerpt: PhD Student
-  - image_path: /assets/images/dario_mantegazza.jpg
-    alt: Dario Mantegazza
-    title: Dario Mantegazza
-    excerpt: 'PhD Student <br/> [Webpage](https://dario.carrd.co/)'
-  - image_path: /assets/images/alberto_piatti.jpg
-    alt: Prof. Alberto Piatti (with SUPSI-DFA)
-    title: Prof. Alberto Piatti (with SUPSI-DFA)
-    excerpt: Educational Robotics
-  - image_path: /assets/images/lucio_negrini.jpg
-    alt: Dr. Lucio Negrini (with SUPSI-DFA)
-    title: Dr. Lucio Negrini (with SUPSI-DFA)
-    excerpt: Educational Robotics
   - image_path: /assets/images/antonio_paolillo.jpg
     alt: Dr. Antonio Paolillo
     title: Dr. Antonio Paolillo
@@ -55,6 +33,26 @@ people_staff:
     alt: Gabriele Abbate
     title: Gabriele Abbate
     excerpt: Researcher
+  - image_path: /assets/images/mirko_nava.jpg
+    alt: Mirko Nava
+    title: Mirko Nava
+    excerpt: PhD Student
+  - image_path: /assets/images/dario_mantegazza.jpg
+    alt: Dario Mantegazza
+    title: Dario Mantegazza
+    excerpt: 'PhD Student <br/> [Webpage](https://dario.carrd.co/)'
+  - image_path: /assets/images/default_people.png
+    alt: Elia Cereda
+    title: Elia Cereda
+    excerpt: PhD Student
+  - image_path: /assets/images/alberto_piatti.jpg
+    alt: Prof. Alberto Piatti (with SUPSI-DFA)
+    title: Prof. Alberto Piatti (with SUPSI-DFA)
+    excerpt: Educational Robotics
+  - image_path: /assets/images/lucio_negrini.jpg
+    alt: Prof. Lucio Negrini (with SUPSI-DFA)
+    title: Prof. Lucio Negrini (with SUPSI-DFA)
+    excerpt: Educational Robotics
 people_students:
   - image_path: /assets/images/nicky_zimmerman.png
     alt: Nicky Zimmerman
