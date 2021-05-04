@@ -118,8 +118,8 @@ published: true
 ## Past members
 
  - Prof. [Gianni di Caro](http://www.giannidicaro.com/) (now at [Carnegie Mellon University - Qatar](https://www.qatar.cmu.edu/))
- - Dr. Eduardo Feo Flushing (now at [Carnegie Mellon University - Qatar](https://www.qatar.cmu.edu/))
- - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
- - Dr. Frederick Ducatelle (now at [Nuance](https://www.nuance.com/index.html))
- - [Nicky Zimmermann](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) (now a PhD candidate in Robotics at the [University of Bonn](https://www.uni-bonn.de/))
  - Dr. [Boris Gromov](https://www.linkedin.com/in/boris-gromov/) (now at [Advanced Osteotomy Tools](https://aot.swiss))
+ - Dr. Eduardo Feo Flushing (now at [Carnegie Mellon University - Qatar](https://www.qatar.cmu.edu/))
+ - [Nicky Zimmermann](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) (now a PhD candidate in Robotics at the [University of Bonn](https://www.uni-bonn.de/))
+ - Dr. Frederick Ducatelle (now at [Nuance](https://www.nuance.com/index.html))
+ - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
