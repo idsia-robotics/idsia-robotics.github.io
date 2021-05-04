@@ -122,3 +122,4 @@ published: true
  - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
  - Dr. Frederick Ducatelle (now at [Nuance](https://www.nuance.com/index.html))
  - [Nicky Zimmermann](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) (now a PhD candidate in Robotics at the [University of Bonn](https://www.uni-bonn.de/))
+ - Dr. [Boris Gromov](https://www.linkedin.com/in/boris-gromov/) (now at [Advanced Osteotomy Tools](https://aot.swiss))
