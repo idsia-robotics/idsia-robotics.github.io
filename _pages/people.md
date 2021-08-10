@@ -39,6 +39,10 @@ people_staff:
     alt: Gabriele Abbate
     title: Gabriele Abbate
     excerpt: Researcher
+  - image_path: /assets/images/camila_alvarez.png
+    alt: Maria Camila Alvarez Triviño
+    title: Maria Camila Alvarez Triviño
+    excerpt: Researcher
   - image_path: /assets/images/mirko_nava.jpg
     alt: Mirko Nava
     title: Mirko Nava
