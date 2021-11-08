@@ -95,7 +95,7 @@ Check out our new preprint paper on arXiv, “[Fully Onboard AI-powered Human-Dr
 ## Feb 28 2021
 Check out our recent open access paper, accepted to the IEEE Robotics and Automation Letters with ICRA 2021 presentation: "[State-Consistency Loss for Learning Spatial Perception Tasks from Partial Labels](https://ieeexplore.ieee.org/document/9345348/)". [more info & videos](https://github.com/idsia-robotics/state-consistency-loss){: .btn .btn--info .btn-sm}
 
-We are also presenting at ICRA 2021: Gabriele Abbate, Boris Gromov, Luca Gambardella, Alessandro Giusti: "Pointing at Moving Robots: Detecting Events from Wrist IMU Data" [more info & videos](https://github.com/idsia-robotics/pointing-detection-moving-robots){: .btn .btn--info .btn-sm}
+We are also presenting at ICRA 2021: Gabriele Abbate, Boris Gromov, Luca Gambardella, Alessandro Giusti: "[Pointing at Moving Robots: Detecting Events from Wrist IMU Data](https://ieeexplore.ieee.org/document/9561387)" [more info & videos](https://github.com/idsia-robotics/pointing-detection-moving-robots){: .btn .btn--info .btn-sm}
 
 ## May 20 2020
 Our highly-cited paper “[Machine-Learning Method for Quality of Transmission Prediction of Unestablished Lightpaths](https://ieeexplore.ieee.org/document/8293995)” (with [Cristina Rottondi](https://www.telematica.polito.it/member/cristina-rottondi/) and colleagues) published on the IEEE/OSA Journal of Optical Communications and Networking won the prestigious “[IEEE Communications Society Charles Kao Award](https://www.comsoc.org/about/awards/paper-awards/ieee-communications-society-charles-kao-award-best-optical-communications)”.
