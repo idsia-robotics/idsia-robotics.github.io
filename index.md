@@ -89,8 +89,17 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+## Nov 29 2021
+Check out our new video “[PULP-Frontnet -- Fully Onboard AI-powered Human-Drone Pose Estimation on Autonomous Flying Nano-UAVs,](https://www.youtube.com/watch?v=_kmDDYoNA3g)” avilable on the "[IDSIA Robotics Youtube channel.](https://www.youtube.com/user/idsiarobotics)"
+
+## Nov 18 2021
+Check out our recent paper, published to the 17th IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS): "[Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs.](https://ieeexplore.ieee.org/abstract/document/9600024)"
+
+## Jun 22 2021
+Our recent paper “[Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs,](https://ieeexplore.ieee.org/abstract/document/9462495)” has been published in the IEEE Internet of Things Journal.
+
 ## Mar 25 2021
-Check out our new preprint paper on arXiv, “[Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs,](https://arxiv.org/abs/2103.10873)” made in collaboration with [ETH Zürich](https://iis.ee.ethz.ch/) and the [University of Bologna](https://dei.unibo.it/it).
+Check out our new preprint paper on arXiv, “[Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs,](https://arxiv.org/abs/2103.10873)” made in collaboration with [ETH Zürich](https://iis.ee.ethz.ch/), with the [University of Bonn](https://www.ipb.uni-bonn.de/), and the [University of Bologna.](https://dei.unibo.it/it)
 
 ## Feb 28 2021
 Check out our recent open access paper, accepted to the IEEE Robotics and Automation Letters with ICRA 2021 presentation: "[State-Consistency Loss for Learning Spatial Perception Tasks from Partial Labels](https://ieeexplore.ieee.org/document/9345348/)". [more info & videos](https://github.com/idsia-robotics/state-consistency-loss){: .btn .btn--info .btn-sm}
