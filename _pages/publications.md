@@ -5,8 +5,6 @@ classes: wide
 title: "Publications"
 permalink: /publications/
 
-highlights_bibkeys: "gromov2018robot|chavez-garcia2018ral|Guzzi2018a|BanGuzAmiFeoGiuGam2018|giusti2016machine|DucDicForBonDorMagMonOgrPinRetTriGam2014"
-
 ---
 
 # Publications
