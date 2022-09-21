@@ -89,11 +89,17 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+## Feb 10 2022
+Check out our recent paper, published to the IEEE Robotics and Automation Letters with ICRA 2022 presentation: "[Learning Visual Localization of a Quadrotor Using its Noise as Self-Supervision](https://ieeexplore.ieee.org/document/9686072)". Videos, datasets and code can be found on the [dedicated page](https://github.com/idsia-robotics/Sound-as-Pretext). 
+
 ## Nov 29 2021
 Check out our new video “[PULP-Frontnet -- Fully Onboard AI-powered Human-Drone Pose Estimation on Autonomous Flying Nano-UAVs,](https://www.youtube.com/watch?v=_kmDDYoNA3g)” avilable on the "[IDSIA Robotics Youtube channel.](https://www.youtube.com/user/idsiarobotics)"
 
 ## Nov 18 2021
 Check out our recent paper, published to the 17th IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS): "[Improving the Generalization Capability of DNNs for Ultra-low Power Autonomous Nano-UAVs.](https://ieeexplore.ieee.org/abstract/document/9600024)"
+
+## Jun 25 2021
+Check out our recent paper, published to the IEEE Robotics and Automation Letters with IROS 2021 presentation: "[Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks](https://ieeexplore.ieee.org/document/9477010)". Videos, datasets and code can be found on the [dedicated page](https://github.com/idsia-robotics/uncertainty-aware-ssl-spatial-perception). 
 
 ## Jun 22 2021
 Our recent paper “[Fully Onboard AI-powered Human-Drone Pose Estimation on Ultra-low Power Autonomous Flying Nano-UAVs,](https://ieeexplore.ieee.org/abstract/document/9462495)” has been published in the IEEE Internet of Things Journal.
