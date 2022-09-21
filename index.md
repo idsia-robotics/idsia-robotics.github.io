@@ -89,6 +89,14 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+<figure style="width: 30%" class="align-right"><img src="/files/imav2022awards.jpg"></figure>
+## Sep 19 2022
+The PULP team, composed of a group of researchers from our lab, Università di Bologna and TII Abu Dhabi, won the 1st Nanocopter AI challenge. 
+The international competition was held in Delft on the 13th of September, and the teams were tasked with developing a palm-sized quadrotor's intelligence to enable autonomous navigation in an unknown environment cluttered with fixed and moving obstacles.
+The PULP team was ranked first, beating teams from Brazil, Spain, and the Netherlands, thanks to onboard artificial intelligence capable of long collision-free flights.
+They scored a remarkable 110 meters autonomous flight in 5 minutes, avoiding all moving obstacles. 
+The PULP team was the first collaboration between research institutions at the forefront of nano-robotics research and innovation. The IDSIA part of the team was led by Dr. Daniele Palossi and composed by Elia Cereda (Ph.D. student), who was on the field in Delft, and the support team in Lugano: Gabriele Abbate (researcher) and Prof. Alessandro Giusti.
+
 ## Feb 10 2022
 Check out our recent paper, published to the IEEE Robotics and Automation Letters with ICRA 2022 presentation: "[Learning Visual Localization of a Quadrotor Using its Noise as Self-Supervision](https://ieeexplore.ieee.org/document/9686072)". Videos, datasets and code can be found on the [dedicated page](https://github.com/idsia-robotics/Sound-as-Pretext). 
 
@@ -169,9 +177,6 @@ We received an [Optimus Agora' Award](http://www.snf.ch/en/researchinFocus/newsr
 <figure style="width: 30%" class="align-right"><img src="/files/nzz.jpg"></figure>
 ## Jul 27 2018
 Our research was featured in the Neue Zürcher Zeitung, one of the most prestigious daily swiss newspapers.
-
-## Jul 18 2018
-Congratulations to our MSc students Mirko Nava and Dario Mangegazza, who successfully defened their thesis.
 
 ## Jun 29 2018
 Our paper "*Robot Identification and Localization with Pointing Gestures*" was accepted at IROS 2018.  [Details](http://people.idsia.ch/~gromov/motion-relloc/){: .btn .btn--info .btn-sm}
