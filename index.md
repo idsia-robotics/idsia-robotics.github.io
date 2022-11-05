@@ -89,6 +89,10 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+<figure style="width: 30%" class="align-right"><img src="/files/nccr2022award.jpg"></figure>
+## Nov 5 2022
+Our 2016 paper ["A Machine Learning Approach to the Visual Perception of Forest Trails for Mobile Robots"](https://people.idsia.ch/~giusti/forest/web/) has received the "NCCR Robotics Most Impactful Paper Award".  One such award was given for each of the three grand challenges of the 12-year NCCR Robotics.
+
 <figure style="width: 30%" class="align-right"><img src="/files/imav2022awards.jpg"></figure>
 ## Sep 19 2022
 The PULP team, composed of a group of researchers from our lab, Università di Bologna and TII Abu Dhabi, won the 1st Nanocopter AI challenge. 
@@ -96,6 +100,9 @@ The international competition was held in Delft on the 13th of September, and th
 The PULP team was ranked first, beating teams from Brazil, Spain, and the Netherlands, thanks to onboard artificial intelligence capable of long collision-free flights.
 They scored a remarkable 110 meters autonomous flight in 5 minutes, avoiding all moving obstacles. 
 The PULP team was the first collaboration between research institutions at the forefront of nano-robotics research and innovation. The IDSIA part of the team was led by Dr. Daniele Palossi and composed by Elia Cereda (Ph.D. student), who was on the field in Delft, and the support team in Lugano: Gabriele Abbate (researcher) and Prof. Alessandro Giusti.
+
+## Apr 13 2022
+Congratulations to [Antonio Paolillo](https://totopaolillo.github.io/) for publication of his Science Robotics paper [How to compete with robots by assessing job automation risks and resilient alternatives](https://www.science.org/doi/10.1126/scirobotics.abg5561). 
 
 ## Feb 10 2022
 Check out our recent paper, published to the IEEE Robotics and Automation Letters with ICRA 2022 presentation: "[Learning Visual Localization of a Quadrotor Using its Noise as Self-Supervision](https://ieeexplore.ieee.org/document/9686072)". Videos, datasets and code can be found on the [dedicated page](https://github.com/idsia-robotics/Sound-as-Pretext). 
