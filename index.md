@@ -93,6 +93,12 @@ We work with both flying and ground mobile robots; our current research focuses 
 ## Nov 5 2022
 Our 2016 paper ["A Machine Learning Approach to the Visual Perception of Forest Trails for Mobile Robots"](https://people.idsia.ch/~giusti/forest/web/) has received the "NCCR Robotics Most Impactful Paper Award".  One such award was given for each of the three grand challenges of the 12-year NCCR Robotics.
 
+## Nov 4 2022
+Our lab's research on nanodrones is covered by the swiss public broadcasting TV program "Il Quotidiano".  [Link](https://www.rsi.ch/la1/programmi/informazione/il-quotidiano/), jump at minute 23:47.
+
+## Nov 4-5 2022
+Interactive demonstrations of our research on pointing-based human-robot interaction shown to hundreds of people (both robotics professionals and the general public) at the [Swiss Robotics Day 2022](https://swissroboticsday.ch/), at the Palais de Beaulieu, Lausanne.
+
 <figure style="width: 30%" class="align-right"><img src="/files/imav2022awards.jpg"></figure>
 ## Sep 19 2022
 The PULP team, composed of a group of researchers from our lab, Università di Bologna and TII Abu Dhabi, won the 1st Nanocopter AI challenge. 
