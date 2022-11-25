@@ -107,6 +107,9 @@ The PULP team was ranked first, beating teams from Brazil, Spain, and the Nether
 They scored a remarkable 110 meters autonomous flight in 5 minutes, avoiding all moving obstacles. 
 The PULP team was the first collaboration between research institutions at the forefront of nano-robotics research and innovation. The IDSIA part of the team was led by Dr. Daniele Palossi and composed by Elia Cereda (Ph.D. student), who was on the field in Delft, and the support team in Lugano: Gabriele Abbate (researcher) and Prof. Alessandro Giusti.
 
+## Jul 21 2022
+Check out our recent paper, published to the IEEE Robotics and Automation Letters with ICRA 2022 presentation: "[An Outlier Exposure Approach to Improve Visual Anomaly Detection Performance for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9834998)". Videos, datasets and code can be found on the [dedicated page](https://github.com/idsia-robotics/hazard-detection). 
+
 ## Apr 13 2022
 Congratulations to [Antonio Paolillo](https://totopaolillo.github.io/) for publication of his Science Robotics paper [How to compete with robots by assessing job automation risks and resilient alternatives](https://www.science.org/doi/10.1126/scirobotics.abg5561). 
 
