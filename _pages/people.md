@@ -20,7 +20,7 @@ people_staff:
   - image_path: /assets/images/daniele_palossi.png
     alt: Dr. Daniele Palossi
     title: Dr. Daniele Palossi
-    excerpt: 'Senior Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)
+    excerpt: 'Senior Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)'
   - image_path: /assets/images/omar_chavez.jpg
     alt: Dr. Omar Chavez-Garcia
     title: Dr. Omar Chavez-Garcia
