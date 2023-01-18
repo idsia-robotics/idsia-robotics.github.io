@@ -29,8 +29,7 @@ people_staff:
     alt: Dr. Daniele Palossi
     title: Dr. Daniele Palossi
     excerpt: >-
-      Researcher<br/>
-      [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)
+      Senior Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)
   - image_path: /assets/images/default_people.png
     alt: Dr. Jamal Saeedi
     title: Dr. Jamal Saeedi
