@@ -13,23 +13,22 @@ people_staff:
     alt: Prof. Luca Gambardella
     title: Prof. Luca Gambardella
     excerpt: 'USI Professor<br/>[Webpage](http://people.idsia.ch/~luca)'
+  - image_path: /assets/images/jerome_guzzi.jpg
+    alt: Dr. Jerome Guzzi
+    title: Dr. Jerome Guzzi
+    excerpt: 'Senior Researcher<br/> [Webpage](https://github.com/jeguzzi)'
+  - image_path: /assets/images/daniele_palossi.png
+    alt: Dr. Daniele Palossi
+    title: Dr. Daniele Palossi
+    excerpt: 'Senior Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)
   - image_path: /assets/images/omar_chavez.jpg
     alt: Dr. Omar Chavez-Garcia
     title: Dr. Omar Chavez-Garcia
     excerpt: 'Researcher<br/> [Webpage](http://romarcg.xyz)'
-  - image_path: /assets/images/jerome_guzzi.jpg
-    alt: Dr. Jerome Guzzi
-    title: Dr. Jerome Guzzi
-    excerpt: 'Researcher<br/> [Webpage](https://github.com/jeguzzi)'
   - image_path: /assets/images/antonio_paolillo.jpg
     alt: Dr. Antonio Paolillo
     title: Dr. Antonio Paolillo
     excerpt: 'Researcher<br/> [Webpage](https://totopaolillo.github.io/)'
-  - image_path: /assets/images/daniele_palossi.png
-    alt: Dr. Daniele Palossi
-    title: Dr. Daniele Palossi
-    excerpt: >-
-      Senior Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)
   - image_path: /assets/images/default_people.png
     alt: Dr. Jamal Saeedi
     title: Dr. Jamal Saeedi
@@ -53,6 +52,10 @@ people_staff:
   - image_path: /assets/images/default_people.png
     alt: Elia Cereda
     title: Elia Cereda
+    excerpt: PhD Student
+  - image_path: /assets/images/default_people.png
+    alt: Luca Crupi
+    title: Luca Crupi
     excerpt: PhD Student
   - image_path: /assets/images/alberto_piatti.jpg
     alt: Prof. Alberto Piatti (with SUPSI-DFA)
