@@ -89,6 +89,10 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+<figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
+## Jan 17 2023
+Three new papers have just been accepted at [ICRA'23](https://www.icra2023.org/). "Dynamical System-based Imitation Learning for Visual Servoing using the Large Projection Formulation," "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors."
+
 <figure style="width: 30%" class="align-right"><img src="/files/nccr2022award.jpg"></figure>
 ## Nov 5 2022
 Our 2016 paper ["A Machine Learning Approach to the Visual Perception of Forest Trails for Mobile Robots"](https://people.idsia.ch/~giusti/forest/web/) has received the "NCCR Robotics Most Impactful Paper Award".  One such award was given for each of the three grand challenges of the 12-year NCCR Robotics.
