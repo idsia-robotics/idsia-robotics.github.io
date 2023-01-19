@@ -49,7 +49,7 @@ people_staff:
     alt: Dario Mantegazza
     title: Dario Mantegazza
     excerpt: 'PhD Student <br/> [Webpage](https://dario.carrd.co/)'
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/elia_cereda.jpg
     alt: Elia Cereda
     title: Elia Cereda
     excerpt: PhD Student
