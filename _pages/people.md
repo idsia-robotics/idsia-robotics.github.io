@@ -66,14 +66,6 @@ people_staff:
     title: Prof. Lucio Negrini (with SUPSI-DFA)
     excerpt: Educational Robotics
 people_students:
-  - image_path: /assets/images/default_people.png
-    alt: Stefano Bonato
-    title: Stefano Bonato
-    excerpt: Intern
-  - image_path: /assets/images/default_people.png
-    alt: Luca Brena
-    title: Luca Brena
-    excerpt: Intern
 published: true
 ---
 
@@ -137,3 +129,5 @@ published: true
  - [Nicky Zimmermann](https://www.linkedin.com/in/nicky-zimmerman-41b71694/) (now a PhD candidate in Robotics at the [University of Bonn](https://www.uni-bonn.de/))
  - Dr. Frederick Ducatelle (now at [Nuance](https://www.nuance.com/index.html))
  - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
+ - Stefano Bonato (former intern)
+ - Luca Brena (former intern)
