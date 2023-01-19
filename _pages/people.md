@@ -29,7 +29,7 @@ people_staff:
     alt: Dr. Antonio Paolillo
     title: Dr. Antonio Paolillo
     excerpt: 'Researcher<br/> [Webpage](https://totopaolillo.github.io/)'
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/jamal_saeedi.png
     alt: Dr. Jamal Saeedi
     title: Dr. Jamal Saeedi
     excerpt: 'Researcher<br/> [Webpage](https://www.linkedin.com/in/jamalsaeedi/)'
