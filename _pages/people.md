@@ -53,7 +53,7 @@ people_staff:
     alt: Elia Cereda
     title: Elia Cereda
     excerpt: PhD Student
-  - image_path: /assets/images/default_people.png
+  - image_path: /assets/images/luca_crupi.jpg
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: PhD Student
