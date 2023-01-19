@@ -45,7 +45,7 @@ people_staff:
     alt: Mirko Nava
     title: Mirko Nava
     excerpt: PhD Student
-  - image_path: /assets/images/dario_mantegazza.jpg
+  - image_path: /assets/images/manty.png
     alt: Dario Mantegazza
     title: Dario Mantegazza
     excerpt: 'PhD Student <br/> [Webpage](https://dario.carrd.co/)'
