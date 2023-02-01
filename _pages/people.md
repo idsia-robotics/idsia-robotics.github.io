@@ -66,6 +66,10 @@ people_staff:
     title: Prof. Lucio Negrini (with SUPSI-DFA)
     excerpt: Educational Robotics
 people_students:
+  - image_path: /assets/images/default_people.jpg
+    alt: Stefano Carlo Lambertenghi
+    title: Stefano Carlo Lambertenghi
+    excerpt: Intern on Robot Learning
 published: true
 ---
 
