@@ -40,7 +40,7 @@ people_staff:
   - image_path: /assets/images/camila_alvarez.jpg
     alt: Maria Camila Alvarez Triviño
     title: Maria Camila Alvarez Triviño
-    excerpt: Researcher
+    excerpt: 'Researcher<br/>[Webpage](https://people.idsia.ch/~camila.alvarez/)'
   - image_path: /assets/images/mirko_nava.jpg
     alt: Mirko Nava
     title: Mirko Nava
