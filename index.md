@@ -91,7 +91,7 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 <figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
 ## Jan 17 2023
-Three new papers have just been accepted at [ICRA'23](https://www.icra2023.org/). "Dynamical System-based Imitation Learning for Visual Servoing using the Large Projection Formulation," "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors."
+Three new papers have just been accepted at [ICRA'23](https://www.icra2023.org/). "Dynamical System-based Imitation Learning for Visual Servoing using the Large Projection Formulation," "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," [demo-video](https://youtu.be/dVCScckvcg8) and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors" [demo-video](https://youtu.be/pUGL1qu3Z1k).
 
 <figure style="width: 30%" class="align-right"><img src="/files/nccr2022award.jpg"></figure>
 ## Nov 5 2022
