@@ -52,11 +52,11 @@ people_staff:
   - image_path: /assets/images/elia_cereda.jpg
     alt: Elia Cereda
     title: Elia Cereda
-    excerpt: PhD Student
+    excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=GPJziQsAAAAJ)'
   - image_path: /assets/images/luca_crupi.jpg
     alt: Luca Crupi
     title: Luca Crupi
-    excerpt: PhD Student
+    excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
   - image_path: /assets/images/alberto_piatti.jpg
     alt: Prof. Alberto Piatti (with SUPSI-DFA)
     title: Prof. Alberto Piatti (with SUPSI-DFA)
@@ -65,11 +65,6 @@ people_staff:
     alt: Prof. Lucio Negrini (with SUPSI-DFA)
     title: Prof. Lucio Negrini (with SUPSI-DFA)
     excerpt: Educational Robotics
-people_students:
-  - image_path: /assets/images/default_people.png
-    alt: Stefano Carlo Lambertenghi
-    title: Stefano Carlo Lambertenghi
-    excerpt: Intern on Robot Learning
 published: true
 ---
 
@@ -112,7 +107,12 @@ published: true
 .feature__item .archive__item .archive__item-body .archive__item-excerpt p a::before{
     content: none;
 }
-
+  
+.feature__item img {
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: top;
+}
 </style>
 
 # People
@@ -135,3 +135,4 @@ published: true
  - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
  - Stefano Bonato (former intern)
  - Luca Brena (former intern)
+ - Stefano Carlo Lambertenghi (now a PhD candidate at [TU Munich](https://www.tum.de/)
