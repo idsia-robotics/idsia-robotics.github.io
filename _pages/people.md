@@ -135,4 +135,4 @@ published: true
  - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
  - Stefano Bonato (former intern)
  - Luca Brena (former intern)
- - Stefano Carlo Lambertenghi (now a PhD candidate at [TU Munich](https://www.tum.de/)
+ - Stefano Carlo Lambertenghi (now a PhD candidate at [TU Munich](https://www.tum.de/))
