@@ -60,8 +60,15 @@ p5:
       and large 3D-printers for complex metal objects
 p6:
   - image_path: /files/nanorobotics.jpg
-    title: AI-based Nanorobotics >-
-      [Nanorobotics Research Group](https://idsia-robotics.github.io/nanorobotics/)
+    title: AI-based Nanorobotics
+    excerpt: >-
+      The [Nanorobotics Research Group](https://idsia-robotics.github.io/nanorobotics/)
+      is active in several cutting-edge projects, deploying State-of-the-Art deep learning
+      techniques for perception on ultra-constrained palm-sized nano-drones.
+    url: >-
+      https://idsia-robotics.github.io/nanorobotics
+    btn_label: Nanorobotics
+    btn_class: btn--primary
 published: true
 ---
 
@@ -82,6 +89,7 @@ We work with both flying and ground mobile robots; our current research focuses 
 {% include feature_row id="p2" type="left" %}
 {% include feature_row id="p3" type="left" %}
 {% include feature_row id="p4" type="left" %}
+{% include feature_row id="p6" type="left" %}
 
 
 # News
