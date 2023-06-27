@@ -58,6 +58,10 @@ p5:
       discharge
       machining](https://en.wikipedia.org/wiki/Electrical_discharge_machining)
       and large 3D-printers for complex metal objects
+p6:
+  - image_path: /files/nanorobotics.jpg
+    title: AI-based Nanorobotics >-
+      [Nanorobotics Research Group](https://idsia-robotics.github.io/nanorobotics/)
 published: true
 ---
 
