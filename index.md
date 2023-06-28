@@ -67,7 +67,7 @@ p6:
       techniques for perception on ultra-constrained palm-sized nano-drones.
     url: >-
       https://idsia-robotics.github.io/nanorobotics
-    btn_label: Nanorobotics
+    btn_label: Read More
     btn_class: btn--primary
 published: true
 ---
@@ -85,11 +85,11 @@ We are part of the [National Centre of Competence in Research](https://nccr-robo
 
 We work with both flying and ground mobile robots; our current research focuses on the following themes.
 
+{% include feature_row id="p6" type="left" %}
 {% include feature_row id="p1" type="left" %}
 {% include feature_row id="p2" type="left" %}
 {% include feature_row id="p3" type="left" %}
 {% include feature_row id="p4" type="left" %}
-{% include feature_row id="p6" type="left" %}
 
 
 # News
