@@ -66,7 +66,7 @@ p6:
       is active in several cutting-edge projects, deploying State-of-the-Art deep learning
       techniques for perception on ultra-constrained palm-sized nano-drones.
     url: >-
-      https://idsia-robotics.github.io/nanorobotics
+      https://idsia-robotics.github.io/nanorobotics/
     btn_label: Read More
     btn_class: btn--primary
 published: true
