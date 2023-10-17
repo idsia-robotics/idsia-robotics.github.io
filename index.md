@@ -94,6 +94,10 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 # News
 
+## Sep 25 2023
+Our paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones” received the Best Paper Award at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the ACM EWSN’23 conference in Rende, Italy, 25-27 September 2023.
+Our work proposes a secure computational paradigm for deep learning workloads that allows resource-constrained devices, such as nano-drones, to take advantage of powerful remote computation nodes while preserving security against external attackers.
+
 <figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
 ## Jan 17 2023
 Three new papers have just been accepted at [ICRA'23](https://www.icra2023.org/). "Dynamical System-based Imitation Learning for Visual Servoing using the Large Projection Formulation," "Deep Neural Network Architecture Search for Accurate Visual Pose Estimation aboard Nano-UAVs," [arXiv preprint](https://arxiv.org/abs/2303.01931) [demo-video](https://youtu.be/dVCScckvcg8) and "Ultra-low Power Deep Learning-based Monocular Relative Localization Onboard Nano-quadrotors" [arXiv preprint](https://arxiv.org/abs/2303.01940) [demo-video](https://youtu.be/pUGL1qu3Z1k).
