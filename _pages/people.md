@@ -44,7 +44,7 @@ people_staff:
   - image_path: /assets/images/mirko_nava.jpg
     alt: Mirko Nava
     title: Mirko Nava
-    excerpt: PhD Student
+    excerpt: 'PhD Student <br/> [Webpage](https://github.com/Mirko-Nava)'
   - image_path: /assets/images/manty.png
     alt: Dario Mantegazza
     title: Dario Mantegazza
@@ -57,6 +57,26 @@ people_staff:
     alt: Luca Crupi
     title: Luca Crupi
     excerpt: 'PhD Student<br/> [Webpage](https://scholar.google.ch/citations?user=yO4B8GkAAAAJ)'
+  - image_path: /assets/images/default_people.png
+    alt: Simone Arreghini
+    title: Simone Arreghini
+    excerpt: 'PhD Student<br/> [Webpage](https://www.linkedin.com/in/simone-arreghini/)'
+  - image_path: /assets/images/default_people.png
+    alt: Nicky Zimmerman
+    title: Nicky Zimmerman
+    excerpt: 'PhD Student<br/> [Webpage](https://www.linkedin.com/in/nicky-zimmerman-41b71694/)'
+  - image_path: /assets/images/default_people.png
+    alt: Nicholas Carlotti
+    title: Nicholas Carlotti
+    excerpt: 'PhD Student<br/> [Webpage](https://www.linkedin.com/in/nicholas-carlotti-69b82714b)'
+  - image_path: /assets/images/default_people.png
+    alt: Leonardo Severi
+    title: Leonardo Severi
+    excerpt: 'PhD Student, visiting from Politecnico di Torino'
+  - image_path: /assets/images/default_people.png
+    alt: Matteo Sacchetto
+    title: Matteo Sacchetto
+    excerpt: 'PhD Student, visiting from Politecnico di Torino'      
   - image_path: /assets/images/alberto_piatti.jpg
     alt: Prof. Alberto Piatti (with SUPSI-DFA)
     title: Prof. Alberto Piatti (with SUPSI-DFA)
