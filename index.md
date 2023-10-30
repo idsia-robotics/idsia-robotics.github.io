@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: The IDSIA Robotics Lab
+title: The Autonomous Robotics Lab - Dalle Molle Institute for AI
 header:
   image: /files/forest_header.jpg
   caption: >-
@@ -77,9 +77,9 @@ published: true
 <figure style="width: 20%" class="align-right"><img src="files/idsia_logo.png"></figure>
 Our lab is part of [IDSIA](http://idsia.ch) (Dalle Molle Institute for Artificial Intelligence), affiliated with both [USI](http://usi.ch) (Università della Svizzera Italiana) and [SUPSI-DTI](http://www.supsi.ch/dti/) (Scuola Universitaria Professionale della Svizzera Italiana, Dipartimento di Tecnologie Innovative).
 
-The lab is jointy led by [Alessandro Giusti](http://www.idsia.ch/~giusti) (Professor at IDSIA USI-SUPSI), and [Luca M. Gambardella](http://www.idsia.ch/~luca) (Professor at USI); it is active in basic and applied research in autonomous mobile robotics, in close collaboration with other IDSIA researchers, namely the [Imprecise Probability Group](http://ipg.idsia.ch/) led by [Prof. Marco Zaffalon](http://people.idsia.ch/~zaffalon/) and the deep learning group led by [Prof. Jürgen Schmidhuber](http://people.idsia.ch/~juergen/).
+The lab is led by Prof. [Alessandro Giusti](http://www.idsia.ch/~giusti) (Professor at IDSIA USI-SUPSI); it is active in basic and applied research in autonomous mobile robotics, in close collaboration with other IDSIA researchers, namely the [Imprecise Probability Group](http://ipg.idsia.ch/) led by [Prof. Marco Zaffalon](http://people.idsia.ch/~zaffalon/) and the deep learning group led by [Prof. Jürgen Schmidhuber](http://people.idsia.ch/~juergen/).
 
-We are part of the [National Centre of Competence in Research](https://nccr-robotics.ch) Robotics: a Swiss nationwide organization funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) pulling together top researchers from all over the country with the objective of developing new, human oriented robotic technology for improving our quality of life. In this context, we routinely collaborate with other Swiss robotics labs at [ETH Zurich](http://www.ethz.ch/), [EPFL](http://epfl.ch/) and the [University of Zurich](http://www.uzh.ch/index.html).
+We have been part of the [National Centre of Competence in Research](https://nccr-robotics.ch) Robotics for its entire duration (2010-2022): a Swiss nationwide organization funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) pulling together top researchers from all over the country with the objective of developing new, human oriented robotic technology for improving our quality of life.  After the conclusion of the program, we have been routinely collaborating with other Swiss robotics labs at [ETH Zurich](http://www.ethz.ch/), [EPFL](http://epfl.ch/) and the [University of Zurich](http://www.uzh.ch/index.html).
 
 # Research
 
@@ -93,6 +93,9 @@ We work with both flying and ground mobile robots; our current research focuses 
 
 
 # News
+
+## Oct 2023
+Our paper “Self-Supervised Prediction of the Intention to Interact with a Service Robot” [(preprint)](https://arxiv.org/pdf/2309.07477v1.pdf), stemming from a collaboration with the [King's College London](https://www.kcl.ac.uk/) within the [SERMAS EU Project](https://sermasproject.eu/), has been accepted for publication on [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
 
 ## Sep 25 2023
 Our paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones” received the Best Paper Award at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the ACM EWSN’23 conference in Rende, Italy, 25-27 September 2023.
