@@ -79,12 +79,12 @@ The research area is co-led by prof. [Alessandro Giusti](http://www.idsia.ch/~gi
 
 We work with mobile robots (flying and ground), as well as industrial robotics; our current research focuses on the following themes.
 
-{% include feature_row id="p6" type="left" %}
 {% include feature_row id="p1" type="left" %}
 {% include feature_row id="p2" type="left" %}
 {% include feature_row id="p3" type="left" %}
 {% include feature_row id="p4" type="left" %}
-
+{% include feature_row id="p5" type="left" %}
+{% include feature_row id="p6" type="left" %}
 
 # News
 
