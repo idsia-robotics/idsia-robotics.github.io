@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: The Autonomous Robotics Lab - Dalle Molle Institute for AI
+title: Autonomous Robotics research at the Dalle Molle Institute for AI (IDSIA)
 header:
   image: /files/forest_header.jpg
   caption: >-
@@ -21,23 +21,21 @@ p1:
       Perception Group](http://rpg.ifi.uzh.ch/) at the University of Zurich).
 p2:
   - image_path: /files/boris_pointing.jpg
-    title: Pointing-based human-robot interaction
+    title: Social Robotics and Human-Robot Interaction
     excerpt: >-
-      We develop techniques based on pointing
+      Within the [SERMAS](https://sermasproject.eu/) EU Project, we develop advanced perception skills for social robots; we also develop techniques based on pointing
       gestures sensed by wearable devices to identify, localize and control
       robots; possible applications span from [logistics](https://idsia-robotics.github.io/pointing/#interacting-with-a-conveyor-belt-in-virtual-reality-using-pointing-gestures) to [precision quadrotor control](https://idsia-robotics.github.io/pointing/#intuitive-3d-control-of-a-quadrotor-in-user-proximity-with-pointing-gestures) without any
       previous training.
 p3:
-  - image_path: /files/thymio.jpg
-    title: Robotics for education
+  - image_path: /files/nanorobotics.jpg
+    title: AI-based Nanorobotics
     excerpt: >-
-      Using robots in education is a very important interdisciplinary field of
-      research, at the crossing between educational sciences and robotics.  The
-      lab is part of '*Introducing People to Research in Robotics through an
-      Extended Peer Community in Southern Switzerland*': a project awarded the
-      Optimus Agora Prize by the Swiss National Science Foundation
+      The [Nanorobotics Research Group](https://idsia-robotics.github.io/nanorobotics/)
+      is active in several cutting-edge projects, deploying State-of-the-Art deep learning
+      techniques for perception on ultra-constrained palm-sized nano-drones.
     url: >-
-      http://www.snf.ch/en/researchinFocus/newsroom/Pages/news-180920-robots-in-the-classroom.aspx
+      https://idsia-robotics.github.io/nanorobotics/
     btn_label: Read More
     btn_class: btn--primary
 p4:
@@ -53,20 +51,18 @@ p5:
   - image_path: /files/industrial.jpg
     title: Applied machine learning for industrial robotics
     excerpt: >-
-      The lab is active in several applied projects, deploying state-of-the-art
-      deep learning techniques for sensing and process control in [electrical
-      discharge
-      machining](https://en.wikipedia.org/wiki/Electrical_discharge_machining)
-      and large 3D-printers for complex metal objects
+      We are active in several applied projects, deploying state-of-the-art
+      deep learning techniques in various areas of industrial robotics
 p6:
-  - image_path: /files/nanorobotics.jpg
-    title: AI-based Nanorobotics
+  - image_path: /files/thymio.jpg
+    title: Robotics for education
     excerpt: >-
-      The [Nanorobotics Research Group](https://idsia-robotics.github.io/nanorobotics/)
-      is active in several cutting-edge projects, deploying State-of-the-Art deep learning
-      techniques for perception on ultra-constrained palm-sized nano-drones.
+      Using robots in education is a very important interdisciplinary field of
+      research, at the crossing between educational sciences and robotics.  We have been part of '*Introducing People to Research in Robotics through an
+      Extended Peer Community in Southern Switzerland*': a project awarded the
+      Optimus Agora Prize by the Swiss National Science Foundation
     url: >-
-      https://idsia-robotics.github.io/nanorobotics/
+      http://www.snf.ch/en/researchinFocus/newsroom/Pages/news-180920-robots-in-the-classroom.aspx
     btn_label: Read More
     btn_class: btn--primary
 published: true
@@ -75,15 +71,13 @@ published: true
 # About
 
 <figure style="width: 20%" class="align-right"><img src="files/idsia_logo.png"></figure>
-Our lab is part of [IDSIA](http://idsia.ch) (Dalle Molle Institute for Artificial Intelligence), affiliated with both [USI](http://usi.ch) (Università della Svizzera Italiana) and [SUPSI-DTI](http://www.supsi.ch/dti/) (Scuola Universitaria Professionale della Svizzera Italiana, Dipartimento di Tecnologie Innovative).
+This page describes Autonomous Robotics research at [IDSIA](http://idsia.ch) (Dalle Molle Institute for Artificial Intelligence), which is affiliated with both [USI](http://usi.ch) (Università della Svizzera Italiana) and [SUPSI-DTI](http://www.supsi.ch/dti/) (Scuola Universitaria Professionale della Svizzera Italiana, Dipartimento di Tecnologie Innovative).
 
-The lab is led by Prof. [Alessandro Giusti](http://www.idsia.ch/~giusti) (Professor at IDSIA USI-SUPSI); it is active in basic and applied research in autonomous mobile robotics, in close collaboration with other IDSIA researchers, namely the [Imprecise Probability Group](http://ipg.idsia.ch/) led by [Prof. Marco Zaffalon](http://people.idsia.ch/~zaffalon/) and the deep learning group led by [Prof. Jürgen Schmidhuber](http://people.idsia.ch/~juergen/).
-
-We have been part of the [National Centre of Competence in Research](https://nccr-robotics.ch) Robotics for its entire duration (2010-2022): a Swiss nationwide organization funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) pulling together top researchers from all over the country with the objective of developing new, human oriented robotic technology for improving our quality of life.  After the conclusion of the program, we have been routinely collaborating with other Swiss robotics labs at [ETH Zurich](http://www.ethz.ch/), [EPFL](http://epfl.ch/) and the [University of Zurich](http://www.uzh.ch/index.html).
+The research area is co-led by prof. [Alessandro Giusti](http://www.idsia.ch/~giusti) and prof. [Luca M. Gambardella](https://search.usi.ch/it/persone/2edd5d5695e5cb3ce10f0ead0fe15133/gambardella-luca-maria), and deals with both fundamental and applied research challenges.  The institute has been part of the [National Centre of Competence in Research](https://nccr-robotics.ch) Robotics for its entire duration (2010-2022): a Swiss nationwide organization funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) pulling together top researchers from all over the country with the objective of developing new, human oriented robotic technology for improving our quality of life.  The institute is currently involved in many robotics research collaborations with national and international partners.
 
 # Research
 
-We work with both flying and ground mobile robots; our current research focuses on the following themes.
+We work with mobile robots (flying and ground), as well as industrial robotics; our current research focuses on the following themes.
 
 {% include feature_row id="p6" type="left" %}
 {% include feature_row id="p1" type="left" %}
@@ -95,7 +89,7 @@ We work with both flying and ground mobile robots; our current research focuses 
 # News
 
 ## Oct 2023
-Our paper “Self-Supervised Prediction of the Intention to Interact with a Service Robot” [(preprint)](https://arxiv.org/pdf/2309.07477v1.pdf), stemming from a collaboration with the [King's College London](https://www.kcl.ac.uk/) within the [SERMAS EU Project](https://sermasproject.eu/), has been accepted for publication on [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).
+Our paper “Self-Supervised Prediction of the Intention to Interact with a Service Robot” [(preprint)](https://arxiv.org/pdf/2309.07477v1.pdf), stemming from a collaboration with the [King's College London](https://www.kcl.ac.uk/) within the [SERMAS EU Project](https://sermasproject.eu/), has been accepted for publication on [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).  The work proposes a learning-based approach to predict the probability that a human user will interact with a robot, well before the interaction actually begins.
 
 ## Sep 25 2023
 Our paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones” received the Best Paper Award at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the ACM EWSN’23 conference in Rende, Italy, 25-27 September 2023.
@@ -110,14 +104,14 @@ Three new papers have just been accepted at [ICRA'23](https://www.icra2023.org/)
 Our 2016 paper ["A Machine Learning Approach to the Visual Perception of Forest Trails for Mobile Robots"](https://people.idsia.ch/~giusti/forest/web/) has received the "NCCR Robotics Most Impactful Paper Award".  One such award was given for each of the three grand challenges of the 12-year NCCR Robotics.
 
 ## Nov 4 2022
-Our lab's research on nanodrones is covered by the swiss public TV program "Il Quotidiano".  [Link](https://www.rsi.ch/la1/programmi/informazione/il-quotidiano/), jump at minute 23:47.
+Our research on nanodrones is covered by the swiss public TV program "Il Quotidiano".  [Link](https://www.rsi.ch/la1/programmi/informazione/il-quotidiano/), jump at minute 23:47.
 
 ## Nov 4-5 2022
 Interactive demonstrations of our research on pointing-based human-robot interaction shown to hundreds of people (both robotics professionals and the general public) at the [Swiss Robotics Day 2022](https://swissroboticsday.ch/), at the Palais de Beaulieu, Lausanne.
 
 <figure style="width: 30%" class="align-right"><img src="/files/imav2022awards.jpg"></figure>
 ## Sep 19 2022
-The PULP team, composed of a group of researchers from our lab, Università di Bologna and TII Abu Dhabi, won the 1st Nanocopter AI challenge. 
+The PULP team, composed of a group of researchers from IDSIA, Università di Bologna and TII Abu Dhabi, won the 1st Nanocopter AI challenge. 
 The international competition was held in Delft on the 13th of September, and the teams were tasked with developing a palm-sized quadrotor's intelligence to enable autonomous navigation in an unknown environment cluttered with fixed and moving obstacles.
 The PULP team was ranked first, beating teams from Brazil, Spain, and the Netherlands, thanks to onboard artificial intelligence capable of long collision-free flights.
 They scored a remarkable 110 meters autonomous flight in 5 minutes, avoiding all moving obstacles. 
@@ -161,10 +155,10 @@ Check out our recent paper, accepted to the IEEE Robotics and Automation Letters
 We are presenting one additional paper at ICRA 2020: Boris Gromov, Jerome Guzzi, Luca Gambardella, and Alessandro Giusti: “Intuitive 3D Control of a Quadrotor in User Proximity with Pointing Gestures” [more info](https://idsia-robotics.github.io/pointing/#intuitive-3d-control-of-a-quadrotor-in-user-proximity-with-pointing-gestures){: .btn .btn--info .btn-sm}
 
 ## Sep 12 2019
-The survey article "[The current state and future outlook of rescue robotics](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21887)", which the lab contributed to in the context of the NCCR Robotics, is now published in the Journal of Field Robotics.
+The survey article "[The current state and future outlook of rescue robotics](https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21887)", which we contributed to in the context of the NCCR Robotics, is now published in the Journal of Field Robotics.
 
 ## Sep 4 2019
-[Neural Rope](https://www.rsi.ch/web/archivi/shared/Tunnel-digitale-14631828.html), an interactive, public art installation by Prof. Gambardella and artist Alex Dorici, is now live and on permanent display in the Lugano Station Underpass. The ML and software infrastructure was designed and implemented by our lab. The opening was broadcast live on national TV during the [2019 Swiss Digital Day](https://www.digitaltag.swiss/).
+[Neural Rope](https://www.rsi.ch/web/archivi/shared/Tunnel-digitale-14631828.html), an interactive, public art installation by Prof. Gambardella and artist Alex Dorici, is now live and on permanent display in the Lugano Station Underpass. The ML and software infrastructure was designed and implemented by us. The opening was broadcast live on national TV during the [2019 Swiss Digital Day](https://www.digitaltag.swiss/).
 
 ## Mar 22 2019
 Congratulations to our student Simone Mellace, who won the [Swissengineering](http://www.swissengineering-ti.ch/) [Best Thesis Award](http://www.fondazionepremio.ch/premiati/#2019) for his work on [Realtime Generation of Audible Textures Inspired by a Video Stream](https://github.com/idsia-robotics/audible-textures-from-video)!
@@ -248,12 +242,15 @@ With several other NCCR Robotics laboratories we have been collaborating on an i
 
 # Work with us
 
-[Contact us](mailto:alessandrog@idsia.ch) if you are interested in a position in our lab as a Research Engineer, PhD student, or Post-doc researcher.
+Open positions [at SUPSI](https://www.supsi.ch/en/work-with-us) and [USI](https://www.usi.ch/en/university/work-with-us/job-opportunities).  [Contact us](mailto:alessandro.giusti@supsi.ch) for any inquiry.
 
-# Sponsors
+# Main Sponsors
 
 - [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx)
-- [National Centre of Competence in Research (NCCR) Robotics](https://nccr-robotics.ch)
 - [Innosuisse](https://www.innosuisse.ch/inno/de/home.html)
-- The [Eurostars-Eureka](https://www.eurekanetwork.org/) programme of the EU
+- The [Hasler Foundation](https://haslerstiftung.ch/en/welcome-to-the-hasler-foundation/)
+- The [Eurostars-Eureka](https://www.eurekanetwork.org/) EU programme
+- [Technology Innovation Institute](https://www.tii.ae/)
 - [NVidia](https://developer.nvidia.com/academic_gpu_seeding) GPU Grants
+- [National Centre of Competence in Research (NCCR) Robotics](https://nccr-robotics.ch)
+
