@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Robotics Lab at IDSIA"
+title                    : "Autonomous Robotics at IDSIA"
 title_separator          : "-"
 name                     : "IDSIA Robotics"
-description              : "Website for the Robotics Lab at the Dalle Molle Institute for Artificial Intelligence (IDSIA)"
+description              : "Autonomous Robotics Research at the Dalle Molle Institute for Artificial Intelligence (IDSIA), USI-SUPSI"
 url                      : "https://idsia-robotics.github.io"
 baseurl                  : #"/"
 repository               : "idsia-robotics/idsia-robotics.github.io"
