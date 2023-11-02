@@ -19,6 +19,10 @@ p1:
       quadrotor [to follow a forest
       trail](http://people.idsia.ch/~giusti/forest/web/) (with the [Robotics and
       Perception Group](http://rpg.ifi.uzh.ch/) at the University of Zurich).
+    url: >-
+      https://idsia-robotics.github.io/selfsupervised/
+    btn_label: Read More
+    btn_class: btn--primary
 p2:
   - image_path: /files/boris_pointing.jpg
     title: Social Robotics and Human-Robot Interaction
