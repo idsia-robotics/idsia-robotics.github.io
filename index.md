@@ -7,7 +7,7 @@ header:
     Photo credit: Hardy Müller, courtesy [National
     Geographic Magazine](https://www.nationalgeographic.com/magazine/)
 p1:
-  - image_path: /files/traversability.jpg
+  - image_path: /files/ssl_wordcloud.png
     title: Self-supervised learning for perception and navigation
     excerpt: >-
       We develop self-supervised techniques for exploiting multimodal information while learning perception models ([paper](https://doi.org/10.1109/LRA.2022.3143565), [video](https://www.youtube.com/watch?v=fuexj03mGNo)), handle sensor uncertainty ([link](https://doi.org/10.1109/LRA.2021.3095269)) and perceive long-range obstacles ([link](https://github.com/Mirko-Nava/Learning-Long-range-Perception)).
