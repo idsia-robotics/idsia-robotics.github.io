@@ -92,12 +92,19 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+<figure style="width: 30%" class="align-right"><img src="/files/dallemolleprize.png"></figure>
+## Nov 2023
+We have been awarded the "Quality of Life" label for our activity on our rehabilitation device that uses virtual reality and a hand exoskeleton. 
+
 ## Oct 2023
 Our paper “Self-Supervised Prediction of the Intention to Interact with a Service Robot” [(preprint)](https://arxiv.org/pdf/2309.07477v1.pdf), stemming from a collaboration with the [King's College London](https://www.kcl.ac.uk/) within the [SERMAS EU Project](https://sermasproject.eu/), has been accepted for publication on [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).  The work proposes a learning-based approach to predict the probability that a human user will interact with a robot, well before the interaction actually begins.
 
 ## Sep 25 2023
 Our paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones” received the Best Paper Award at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the ACM EWSN’23 conference in Rende, Italy, 25-27 September 2023.
 Our work proposes a secure computational paradigm for deep learning workloads that allows resource-constrained devices, such as nano-drones, to take advantage of powerful remote computation nodes while preserving security against external attackers.
+
+## Mar 2023
+Our activities on the use of virtual reality and wearable robotics for hand rehabilitation are featured on Swiss TV, Radiotelevisione Svizzera (RSI)! Watch the [video](https://www.rsi.ch/la1/programmi/cultura/il-giardino-di-albert/tutti-i-servizi/Riabilitazione-virtuale--1651207.html)!
 
 <figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
 ## Jan 17 2023
