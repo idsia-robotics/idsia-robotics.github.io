@@ -104,7 +104,7 @@ Our paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized
 Our work proposes a secure computational paradigm for deep learning workloads that allows resource-constrained devices, such as nano-drones, to take advantage of powerful remote computation nodes while preserving security against external attackers.
 
 ## Mar 2023
-Our activities on the use of virtual reality and wearable robotics for hand rehabilitation are featured on Swiss TV, Radiotelevisione Svizzera (RSI)! Watch the [video](https://www.rsi.ch/la1/programmi/cultura/il-giardino-di-albert/tutti-i-servizi/Riabilitazione-virtuale--1651207.html)!
+Our activities on the use of virtual reality and wearable robotics for hand rehabilitation are featured on Swiss TV, Radiotelevisione Svizzera (RSI)! Watch the [video](https://www.rsi.ch/la1/programmi/cultura/il-giardino-di-albert/tutti-i-servizi/Riabilitazione-virtuale--1651207.html)! 
 
 <figure style="width: 30%" class="align-right"><img src="/files/icra23.png"></figure>
 ## Jan 17 2023
