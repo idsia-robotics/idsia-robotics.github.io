@@ -36,7 +36,7 @@ people_staff:
   - image_path: /assets/images/gabriele_abbate.png
     alt: Gabriele Abbate
     title: Gabriele Abbate
-    excerpt: Researcher
+    excerpt: 'Researcher<br/> [Webpage](https://gabry993.github.io)'
   - image_path: /assets/images/camila_alvarez.jpg
     alt: Maria Camila Alvarez Triviño
     title: Maria Camila Alvarez Triviño
