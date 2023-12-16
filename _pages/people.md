@@ -17,7 +17,7 @@ people_staff:
     alt: Dr. Jerome Guzzi
     title: Dr. Jerome Guzzi
     excerpt: 'Senior Researcher<br/> [Webpage](https://github.com/jeguzzi)'
-  - image_path: /assets/images/daniele_palossi.png
+  - image_path: /assets/images/daniele_palossi.jpg
     alt: Dr. Daniele Palossi
     title: Dr. Daniele Palossi
     excerpt: 'Senior Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)'
@@ -69,6 +69,10 @@ people_staff:
     alt: Nicholas Carlotti
     title: Nicholas Carlotti
     excerpt: 'PhD Student<br/> [Webpage](https://www.linkedin.com/in/nicholas-carlotti-69b82714b)'
+  - image_path: /assets/images/lorenzo_scarciglia.jpg
+    alt: Lorenzo Scarciglia
+    title: Lorenzo Scarciglia
+    excerpt: 'Research Assistant<br/> [Webpage](https://www.linkedin.com/in/lorenzo-scarciglia-57301a220/)'
   - image_path: /assets/images/default_people.png
     alt: Leonardo Severi
     title: Leonardo Severi
