@@ -92,9 +92,18 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+<figure style="width: 30%" class="align-right"><img src="/files/boldbrain_dario.jpg"></figure>
+## Dec 7 2023
+Congratulations to [Dario Mantegazza](https://www.linkedin.com/in/dario-mantegazza), PhD candidate in our group.  His startup [Cognitive Inspect](https://cognitiveai.carrd.co/) ranked second in the 2023 Boldbrain Startup Challenge, and was awarded a 30’000 CHF cash prize. Cognitive Inspect aims to provide an automated Visual Anomaly Detection service for industries that deploy robotized inspection processes.
+
+## Dec 2023
+Check out our two new journal papers:
+- “A Mirror Therapy System Using Virtual Reality and an Actuated Exoskeleton for the Recovery of Hand Motor Impairments: a Study of Acceptability, Usability, and Embodiment”, just accepted to Nature Scientific Reports.
+- “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing”, just accepted to the IEEE Robotics and Automation Letters (RA-L). [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/vHTAwUsj-nk).  Describes our autonomous navigation and obstacle avoidance system for palm-sized quadrotors, developed in collaboration with Università di Bologna and TII Abu Dhabi and winner of the 1st Nanocopter AI Challenge at [IMAV 2022, Delft, Netherlands](https://www.imavs.org/2022/index.html).
+
 <figure style="width: 30%" class="align-right"><img src="/files/dallemolleprize.png"></figure>
 ## Nov 2023
-We have been awarded the "Quality of Life" label. We received the prize from "Fondation Dalle Molle pour la qualité de la vie" for our project "Remotely-assisted Enhanced Mirror Therapy (REMiT)" presenting our idea of telerehabilitation. Our tool uses virtual reality and a hand exoskeleton to enhance mirror therapy for the recovery of lost hand functionalities. 
+Our researcher Dr. [Antonio Paolillo](https://totopaolillo.github.io/) and team have been awarded the "Quality of Life" prize from "[Fondation Dalle Molle pour la qualité de la vie](https://dallemolle.ch/)" for the project "Remotely-assisted Enhanced Mirror Therapy (REMiT)".  The project uses virtual reality and a hand exoskeleton to enhance mirror therapy for the recovery of lost hand functionalities.
 
 ## Oct 2023
 Our paper “Self-Supervised Prediction of the Intention to Interact with a Service Robot” [(preprint)](https://arxiv.org/pdf/2309.07477v1.pdf), stemming from a collaboration with the [King's College London](https://www.kcl.ac.uk/) within the [SERMAS EU Project](https://sermasproject.eu/), has been accepted for publication on [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).  The work proposes a learning-based approach to predict the probability that a human user will interact with a robot, well before the interaction actually begins.
