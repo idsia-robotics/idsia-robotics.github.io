@@ -90,10 +90,7 @@ people_staff:
     title: Prof. Lucio Negrini (with SUPSI-DFA)
     excerpt: Educational Robotics
 people_students:
-  - image_path: /assets/images/default_people.png
-    alt: Lorenzo Scarciglia
-    title: Lorenzo Scarciglia
-    excerpt: Master thesis student on Robot Learning
+  
 published: true
 ---
 
