@@ -33,6 +33,10 @@ people_staff:
     alt: Dr. Jamal Saeedi
     title: Dr. Jamal Saeedi
     excerpt: 'Researcher<br/> [Webpage](https://www.linkedin.com/in/jamalsaeedi/)'
+  - image_path: /assets/images/mirko_nava.jpg
+    alt: Dr. Mirko Nava
+    title: Dr. Mirko Nava
+    excerpt: 'Researcher<br/> [Webpage](https://github.com/Mirko-Nava)'
   - image_path: /assets/images/gabriele_abbate.png
     alt: Gabriele Abbate
     title: Gabriele Abbate
@@ -41,10 +45,6 @@ people_staff:
     alt: Maria Camila Alvarez Triviño
     title: Maria Camila Alvarez Triviño
     excerpt: 'Researcher<br/>[Webpage](https://people.idsia.ch/~camila.alvarez/)'
-  - image_path: /assets/images/mirko_nava.jpg
-    alt: Mirko Nava
-    title: Mirko Nava
-    excerpt: 'PhD Student <br/> [Webpage](https://github.com/Mirko-Nava)'
   - image_path: /assets/images/manty.png
     alt: Dario Mantegazza
     title: Dario Mantegazza
