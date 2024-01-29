@@ -108,7 +108,7 @@ Congratulations to [Dario Mantegazza](https://www.linkedin.com/in/dario-mantegaz
 
 ## Dec 2023
 Check out our two new journal papers:
-- “A Mirror Therapy System Using Virtual Reality and an Actuated Exoskeleton for the Recovery of Hand Motor Impairments: a Study of Acceptability, Usability, and Embodiment”, just accepted to Nature Scientific Reports.
+- “[A Mirror Therapy System Using Virtual Reality and an Actuated Exoskeleton for the Recovery of Hand Motor Impairments: a Study of Acceptability, Usability, and Embodiment](https://www.nature.com/articles/s41598-023-49571-7)”, just accepted to Nature Scientific Reports.
 - “A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing”, just accepted to the IEEE Robotics and Automation Letters (RA-L). [arXiv preprint](https://arxiv.org/abs/2312.08991) [video](https://youtu.be/vHTAwUsj-nk).  Describes our autonomous navigation and obstacle avoidance system for palm-sized quadrotors, developed in collaboration with Università di Bologna and TII Abu Dhabi and winner of the 1st Nanocopter AI Challenge at [IMAV 2022, Delft, Netherlands](https://www.imavs.org/2022/index.html).
 
 <figure style="width: 30%" class="align-right"><img src="/files/dallemolleprize.png"></figure>
