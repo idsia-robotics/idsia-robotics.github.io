@@ -92,6 +92,16 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+<figure style="width: 30%" class="align-right"><img src="/files/ICRA_2024.jpg"></figure>
+## Jan 29 2024
+Check out our three accepted papers at ICRA 2024:
+- “Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues”
+- “On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors”
+- “High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks”
+
+## Jan 2024
+Our paper “Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task” was accepted for publication in the IEEE Robotics and Automation Letters (RA-L). 
+
 <figure style="width: 30%" class="align-right"><img src="/files/boldbrain_dario.jpg"></figure>
 ## Dec 7 2023
 Congratulations to [Dario Mantegazza](https://www.linkedin.com/in/dario-mantegazza), PhD candidate in our group.  His startup [Cognitive Inspect](https://cognitiveai.carrd.co/) ranked second in the 2023 Boldbrain Startup Challenge, and was awarded a 30’000 CHF cash prize. Cognitive Inspect aims to provide an automated Visual Anomaly Detection service for industries that deploy robotized inspection processes.
