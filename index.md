@@ -99,8 +99,16 @@ Check out our three accepted papers at ICRA 2024:
 - “On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors”
 - “High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks”
 
+<figure style="width: 12%" class="align-left"><img src="/files/TCAS.jpeg"></figure>
+## Jan 19, 2024
+We contributed to the novel paper "A Heterogeneous RISC-V based SoC for Secure Nano-UAV Navigation," which was just accepted at the IEEE Transactions on Circuits and Systems I (TCAS-I). [arXiv preprint](https://arxiv.org/abs/2401.03531).
+
 ## Jan 2024
 Our paper “Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task” was accepted for publication in the IEEE Robotics and Automation Letters (RA-L). 
+
+<figure style="width: 15%; height:100px" class="align-right"><img src="/files/DATE-2024.png"></figure>
+## Dec 18, 2023
+Our new paper, "Adaptive Deep Learning for Efficient Visual Pose Estimation aboard Ultra-low-power Nano-drones," in collaboration with [Politecnico di Torino](https://www.dauin.polito.it/), has just been accepted at [ACM Design, Automation and Test in Europe Conference (DATE'24)](https://www.date-conference.com/). [arXiv preprint](https://arxiv.org/abs/2401.15236).
 
 <figure style="width: 30%" class="align-right"><img src="/files/boldbrain_dario.jpg"></figure>
 ## Dec 7 2023
@@ -118,6 +126,7 @@ Our researcher Dr. [Antonio Paolillo](https://totopaolillo.github.io/) and team 
 ## Oct 2023
 Our paper “Self-Supervised Prediction of the Intention to Interact with a Service Robot” [(preprint)](https://arxiv.org/pdf/2309.07477v1.pdf), stemming from a collaboration with the [King's College London](https://www.kcl.ac.uk/) within the [SERMAS EU Project](https://sermasproject.eu/), has been accepted for publication on [Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems).  The work proposes a learning-based approach to predict the probability that a human user will interact with a robot, well before the interaction actually begins.
 
+<figure style="width: 30%" class="align-right"><img src="/files/2023_spices_award.png"></figure>
 ## Sep 25 2023
 Our paper “Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones” received the Best Paper Award at the 2nd Workshop on Security and Privacy in Connected Embedded Systems (SPICES) during the ACM EWSN’23 conference in Rende, Italy, 25-27 September 2023.
 Our work proposes a secure computational paradigm for deep learning workloads that allows resource-constrained devices, such as nano-drones, to take advantage of powerful remote computation nodes while preserving security against external attackers.
