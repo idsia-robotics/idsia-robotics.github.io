@@ -96,8 +96,8 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 ## Jan 29 2024
 Check out our three accepted papers at ICRA 2024:
 - “Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues”
-- “On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors”
-- “High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks”
+- “On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors” [arXiv preprint](http://arxiv.org/abs/2403.04071)
+- “High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks” [arXiv preprint](https://arxiv.org/abs/2402.09886)
 
 <figure style="width: 12%" class="align-left"><img src="/files/TCAS.jpeg"></figure>
 ## Jan 19, 2024
