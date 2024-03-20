@@ -92,6 +92,11 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+## Mar 15 2024
+
+Our paper “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones” was accepted for publication in the Wi-DroIT 2024 workshop. 
+
+
 <figure style="width: 30%" class="align-right"><img src="/files/ICRA_2024.jpg"></figure>
 ## Jan 29 2024
 Check out our three accepted papers at ICRA 2024:
