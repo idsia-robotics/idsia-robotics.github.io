@@ -94,6 +94,11 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 ## Mar 15 2024
 
+Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024 [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
+
+
+## Mar 15 2024
+
 Our paper “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones” was accepted for publication in the Wi-DroIT 2024 workshop. 
 
 
