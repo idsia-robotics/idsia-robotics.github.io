@@ -110,7 +110,8 @@ Our paper “A Deep Learning-based Pest Insect Monitoring System for Ultra-low P
 Check out our three accepted papers at ICRA 2024:
 - “Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues”
 - “On-device Self-supervised Learning of Visual Perception Tasks aboard Hardware-limited Nano-quadrotors” [arXiv preprint](http://arxiv.org/abs/2403.04071)
-- “High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks” [arXiv preprint](https://arxiv.org/abs/2402.09886)
+- “High-throughput Visual Nano-drone to Nano-drone Relative Localization using Onboard Fully Convolutional Networks” [arXiv preprint](https://arxiv.org/abs/2402.13756)
+
 
 <figure style="width: 12%" class="align-left"><img src="/files/TCAS.jpeg"></figure>
 ## Jan 19, 2024
