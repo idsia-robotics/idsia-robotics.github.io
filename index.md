@@ -94,7 +94,7 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 
 
-<figure style="width: 30%" class="align-right"><img src="/files/logo_erf_ver_01.png"></figure>
+<figure style="width: 20%" class="align-right"><img src="/files/logo_erf_ver_01.png"></figure>
 ## Mar 15 2024
 
 Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024 [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
