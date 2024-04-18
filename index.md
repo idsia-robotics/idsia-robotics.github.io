@@ -99,13 +99,13 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024 [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
 
-<figure style="width: 30%" class="align-left"><img src="/files/logo_dcoss.png"></figure>
+<figure style="width: 20%" class="align-left"><img src="/files/logo_dcoss.png"></figure>
 ## Mar 15 2024
 
 Our paper “A Deep Learning-based Pest Insect Monitoring System for Ultra-low Power Pocket-sized Drones” was accepted for publication in the Wi-DroIT 2024 workshop. 
 
 
-<figure style="width: 30%" class="align-right"><img src="/files/ICRA_2024.jpg"></figure>
+<figure style="width: 40%" class="align-right"><img src="/files/ICRA_2024.jpg"></figure>
 ## Jan 29 2024
 Check out our three accepted papers at ICRA 2024:
 - “Predicting the Intention to Interact with a Service Robot: the Role of Gaze Cues”
