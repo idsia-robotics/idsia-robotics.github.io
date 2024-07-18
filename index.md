@@ -92,7 +92,12 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+## July 2024
 
+Check out our accepted papers at IROS 2024:
+- “Resource-Aware Collaborative Monte Carlo Localization with Distribution Compression” [arXiv preprint](https://arxiv.org/abs/2404.02010)
+- “Learning to Estimate the Pose of a Peer Robot in a Camera Image by Predicting the States of its LEDs” [arXiv preprint](http://arxiv.org/abs/2403.10661).  Additional results on this topic  will also be presented as an extended abstract at ICRA@40: “Multi-LED Classification as Pretext For Robot Heading Estimation”
+- “A Service Robot in the Wild: Analysis of Users Intentions, Robot Behaviors, and Their Mutual Impact”
 
 <figure style="width: 20%" class="align-right"><img src="/files/logo_erf_ver_01.png"></figure>
 ## Mar 15 2024
