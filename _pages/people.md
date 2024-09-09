@@ -32,7 +32,7 @@ people_staff:
   - image_path: /assets/images/jamal_saeedi.jpeg
     alt: Dr. Jamal Saeedi
     title: Dr. Jamal Saeedi
-    excerpt: 'Researcher<br/> [Webpage](https://https://jamal-saeedi.github.io/)'
+    excerpt: 'Researcher<br/> [Webpage](https://jamal-saeedi.github.io/)'
   - image_path: /assets/images/mirko_nava.jpg
     alt: Dr. Mirko Nava
     title: Dr. Mirko Nava
