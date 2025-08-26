@@ -92,6 +92,16 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+## Aug 2025
+
+Our paper “Self-supervised Learning Of Visual Pose Estimation Without Pose Labels By Classifying LED States” was accepted for publication at [CoRL 2025](https://www.corl.org/).  [Read more](https://idsia-robotics.github.io/selfsupervised/) about our self-supervised robot learning research.
+
+## Feb 2025
+Our new journal article, “An Efficient Ground-aerial Transportation System for Pest Control Enabled by AI-based Autonomous Nano-UAVs,” has just been accepted for publication in the [ACM Journal on Autonomous Transportation Systems](https://dl.acm.org/journal/jats). [arXiv preprint](https://arxiv.org/abs/2502.14455).  [Read more](https://idsia-robotics.github.io/nanorobotics/) about our nanorobotics research.
+
+## Jan 2025
+Check out our [ICRA 2025](https://2025.ieee-icra.org/) paper, “A Map-free Deep Learning-based Framework for Gate-to-Gate Monocular Visual Navigation aboard Miniaturized Aerial Vehicles”. [arXiv preprint](https://arxiv.org/abs/2503.05251) [demo video](https://youtu.be/aY0dIhoKQXg). [Read more](https://idsia-robotics.github.io/nanorobotics/) about our nanorobotics research.
+
 ## July 2024
 
 Check out our accepted papers at IROS 2024:
@@ -100,6 +110,10 @@ Check out our accepted papers at IROS 2024:
 - “A Service Robot in the Wild: Analysis of Users Intentions, Robot Behaviors, and Their Mutual Impact”
 
 <figure style="width: 20%" class="align-right"><img src="/files/logo_erf_ver_01.png"></figure>
+## Jun 19 2024
+Congrats to our [nanorobotics group](https://idsia-robotics.github.io/nanorobotics/) for their paper, "Multi-resolution Rescored ByteTrack for Video Object Detection on Ultra-low-power Embedded Systems," coauthored with UNIBO, KUL, and ETHZ, that got the **Best Paper Award** at the 20th [Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/) in conjunction with the CVPR Conference in Seattle, Washington, USA. [CVF open access](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Bompani_Multi-resolution_Rescored_ByteTrack_for_Video_Object_Detection_on_Ultra-low-power_Embedded_CVPRW_2024_paper.pdf)
+
+
 ## Mar 15 2024
 
 Our paper “Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones” was presented at the European Robotics Forum 2024 [arXiv preprint](https://arxiv.org/pdf/2404.02567.pdf). 
