@@ -92,8 +92,15 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
-## Aug 2025
+## Jan 2026
+Two papers accepted at [ICRA 2026](https://2026.ieee-icra.org/):
+- “User-Tailored Learning to Forecast Walking Modes for Exosuits”, in collaboration with our colleagues at [TUM](https://www.ce.cit.tum.de/ibrs/members/).
+- “Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency”. [Read more](https://idsia-robotics.github.io/selfsupervised/) about our self-supervised robot learning research.
 
+## Nov 2025
+Congratulations to Dr. Antonio Paolillo for winning the [Innovation Booster New Mobility](https://newmobilitylab.ch/en_us/?organizationId=258) grant to research novel AI-enabled personal mobility vehicles in collaboration with [Genny Mobility](https://www.gennymobility.com/en/).
+
+## Aug 2025
 Our paper “Self-supervised Learning Of Visual Pose Estimation Without Pose Labels By Classifying LED States” was accepted for publication at [CoRL 2025](https://www.corl.org/).  [Read more](https://idsia-robotics.github.io/selfsupervised/) about our self-supervised robot learning research.
 
 ## Feb 2025
