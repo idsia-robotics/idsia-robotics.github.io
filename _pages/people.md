@@ -69,6 +69,10 @@ people_staff:
     alt: Nicholas Carlotti
     title: Nicholas Carlotti
     excerpt: 'PhD Student<br/> [Webpage](https://www.linkedin.com/in/nicholas-carlotti-69b82714b)'
+  - image_path: /assets/images/default_people.png
+    alt: Ilenia Carboni
+    title: Ilenia Carboni
+    excerpt: 'PhD Student<br/> [Webpage](https://ileniacarboni.github.io)'
   - image_path: /assets/images/lorenzo_scarciglia.jpg
     alt: Lorenzo Scarciglia
     title: Lorenzo Scarciglia
