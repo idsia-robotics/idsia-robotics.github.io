@@ -96,7 +96,7 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 Three papers accepted at [ICRA 2026](https://2026.ieee-icra.org/):
 - “User-Tailored Learning to Forecast Walking Modes for Exosuits”, in collaboration with our colleagues at [TUM](https://www.ce.cit.tum.de/ibrs/members/).
 - “Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency”. [Read more](https://idsia-robotics.github.io/selfsupervised/) about our self-supervised robot learning research.
-- "Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones", in collaboration with University of Bologna and ETH Zurich.
+- "Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones", in collaboration with University of Bologna and ETH Zurich. [arxiv preprint](http://arxiv.org/abs/2603.01850), [supplementary video](https://youtu.be/-frFPUBGa0c).
 
 ## Nov 2025
 Congratulations to Dr. Antonio Paolillo for winning the [Innovation Booster New Mobility](https://newmobilitylab.ch/en_us/?organizationId=258) grant to research novel AI-enabled personal mobility vehicles in collaboration with [Genny Mobility](https://www.gennymobility.com/en/).
