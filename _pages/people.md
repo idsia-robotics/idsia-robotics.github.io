@@ -21,14 +21,14 @@ people_staff:
     alt: Dr. Daniele Palossi
     title: Dr. Daniele Palossi
     excerpt: 'Senior Researcher<br/> [Webpage](https://scholar.google.ch/citations?user=5v_dElkAAAAJ)'
+  - image_path: /assets/images/antonio_paolillo.jpg
+    alt: Dr. Antonio Paolillo
+    title: Dr. Antonio Paolillo
+    excerpt: 'Senior Researcher<br/> [Webpage](https://totopaolillo.github.io/)'
   - image_path: /assets/images/omar_chavez.jpg
     alt: Dr. Omar Chavez-Garcia
     title: Dr. Omar Chavez-Garcia
     excerpt: 'Researcher<br/> [Webpage](http://romarcg.xyz)'
-  - image_path: /assets/images/antonio_paolillo.jpg
-    alt: Dr. Antonio Paolillo
-    title: Dr. Antonio Paolillo
-    excerpt: 'Researcher<br/> [Webpage](https://totopaolillo.github.io/)'
   - image_path: /assets/images/jamal_saeedi.jpeg
     alt: Dr. Jamal Saeedi
     title: Dr. Jamal Saeedi
@@ -45,10 +45,6 @@ people_staff:
     alt: Maria Camila Alvarez Triviño
     title: Maria Camila Alvarez Triviño
     excerpt: 'Researcher<br/>[Webpage](https://people.idsia.ch/~camila.alvarez/)'
-  - image_path: /assets/images/manty.png
-    alt: Dario Mantegazza
-    title: Dario Mantegazza
-    excerpt: 'PhD Student <br/> [Webpage](https://dario.carrd.co/)'
   - image_path: /assets/images/elia_cereda.jpg
     alt: Elia Cereda
     title: Elia Cereda
@@ -62,29 +58,13 @@ people_staff:
     title: Simone Arreghini
     excerpt: 'PhD Student<br/> [Webpage](https://www.linkedin.com/in/simone-arreghini/)'
   - image_path: /assets/images/default_people.png
-    alt: Nicky Zimmerman
-    title: Nicky Zimmerman
-    excerpt: 'PhD Student<br/> [Webpage](https://www.linkedin.com/in/nicky-zimmerman-41b71694/)'
-  - image_path: /assets/images/default_people.png
     alt: Nicholas Carlotti
     title: Nicholas Carlotti
     excerpt: 'PhD Student<br/> [Webpage](https://www.linkedin.com/in/nicholas-carlotti-69b82714b)'
   - image_path: /assets/images/ilenia_carboni.jpeg
     alt: Ilenia Carboni
     title: Ilenia Carboni
-    excerpt: 'PhD Student<br/> [Webpage](https://ileniacarboni.github.io)'
-  - image_path: /assets/images/lorenzo_scarciglia.jpg
-    alt: Lorenzo Scarciglia
-    title: Lorenzo Scarciglia
-    excerpt: 'Research Assistant<br/> [Webpage](https://www.linkedin.com/in/lorenzo-scarciglia-57301a220/)'
-  - image_path: /assets/images/default_people.png
-    alt: Leonardo Severi
-    title: Leonardo Severi
-    excerpt: 'PhD Student, visiting from Politecnico di Torino'
-  - image_path: /assets/images/default_people.png
-    alt: Matteo Sacchetto
-    title: Matteo Sacchetto
-    excerpt: 'PhD Student, visiting from Politecnico di Torino'      
+    excerpt: 'PhD Student<br/> [Webpage](https://ileniacarboni.github.io)'  
   - image_path: /assets/images/alberto_piatti.jpg
     alt: Prof. Alberto Piatti (with SUPSI-DFA)
     title: Prof. Alberto Piatti (with SUPSI-DFA)
@@ -94,6 +74,10 @@ people_staff:
     title: Prof. Lucio Negrini (with SUPSI-DFA)
     excerpt: Educational Robotics
 people_students:
+  - image_path: /assets/images/default_people.png
+    alt: Bernardo Forni
+    title: Bernardo Forni
+    excerpt: 'Visiting PhD Student<br/> [Webpage](https://fornib.github.io/)'
   
 published: true
 ---
@@ -151,7 +135,7 @@ published: true
 
 {% include feature_row id="people_staff" class="people_feature_row" %}
 
-## Current students and interns
+## Current visiting students and interns
 
 {% include feature_row id="people_students" %}
 
@@ -161,7 +145,12 @@ published: true
  - Dr. [Boris Gromov](https://www.linkedin.com/in/boris-gromov/) (now at [Advanced Osteotomy Tools](https://aot.swiss))
  - Dr. Eduardo Feo Flushing (now at [Carnegie Mellon University - Qatar](https://www.qatar.cmu.edu/))
  - Dr. Frederick Ducatelle (now at [Nuance](https://www.nuance.com/index.html))
+ - Dr. Dario Mantegazza (Founder of [Flycatcher SA](https://flycatcher.ai/))
+ - Dr. Nicky Zimmermann (now at National University Singapore, [Webpage](https://www.linkedin.com/in/nicky-zimmerman-41b71694/))
  - Dr. Jawad Nagi (now at [UBS](https://www.ubs.com))
+ - Stefano Carlo Lambertenghi (now a PhD candidate at [TU Munich](https://www.tum.de/))
  - Stefano Bonato (former intern)
  - Luca Brena (former intern)
- - Stefano Carlo Lambertenghi (now a PhD candidate at [TU Munich](https://www.tum.de/))
+ - Lorenzo Scarciglia (former intern)
+ - Leonardo Severi (former intern)
+ - Matteo Sacchetto (former intern)
