@@ -74,7 +74,6 @@ published: true
 
 # About
 
-<figure style="width: 20%" class="align-right"><img src="files/idsia_logo.png"></figure>
 This page describes Autonomous Robotics research at [IDSIA](http://idsia.ch) (Dalle Molle Institute for Artificial Intelligence), which is affiliated with both [USI](http://usi.ch) (Università della Svizzera Italiana) and [SUPSI-DTI](http://www.supsi.ch/dti/) (Scuola Universitaria Professionale della Svizzera Italiana, Dipartimento di Tecnologie Innovative).
 
 The research area is co-led by prof. [Alessandro Giusti](http://www.idsia.ch/~giusti) and prof. [Luca M. Gambardella](https://search.usi.ch/it/persone/2edd5d5695e5cb3ce10f0ead0fe15133/gambardella-luca-maria), and deals with both fundamental and applied research challenges.  The institute has been part of the [National Centre of Competence in Research](https://nccr-robotics.ch) Robotics for its entire duration (2010-2022): a Swiss nationwide organization funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx) pulling together top researchers from all over the country with the objective of developing new, human oriented robotic technology for improving our quality of life.  The institute is currently involved in many robotics research collaborations with national and international partners.
@@ -94,8 +93,8 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 ## Jan 2026
 Three papers accepted at [ICRA 2026](https://2026.ieee-icra.org/):
-- “User-Tailored Learning to Forecast Walking Modes for Exosuits”, in collaboration with our colleagues at [TUM](https://www.ce.cit.tum.de/ibrs/members/).
-- “Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency”. [Read more](https://idsia-robotics.github.io/selfsupervised/) about our self-supervised robot learning research.
+- “User-Tailored Learning to Forecast Walking Modes for Exosuits”, in collaboration with our colleagues at [TUM](https://www.ce.cit.tum.de/ibrs/members/).  [ArXiv preprint](https://arxiv.org/pdf/2603.15329), [video](https://www.youtube.com/watch?v=arcrc17y6m4)
+- “Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency”.  [ArXiv preprint](https://arxiv.org/abs/2603.02936), [Read more](https://idsia-robotics.github.io/selfsupervised/) about our self-supervised robot learning research.
 - "Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones", in collaboration with University of Bologna and ETH Zurich. [arxiv preprint](http://arxiv.org/abs/2603.01850), [supplementary video](https://youtu.be/-frFPUBGa0c).
 
 ## Nov 2025
