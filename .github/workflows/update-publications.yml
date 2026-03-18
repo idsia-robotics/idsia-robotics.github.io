@@ -1,0 +1,35 @@
+name: Update Publications Data
+
+on:
+  push:
+    paths:
+      - 'files/publications/library.bib'
+  workflow_dispatch:  # allow manual trigger from the Actions tab
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install bibtexparser
+
+      - name: Generate publications data
+        run: python3 scripts/bib_to_json.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _data/publications.json
+          git diff --cached --quiet && echo "No changes to commit" || \
+            git commit -m "Auto-update publications data [skip ci]" && git push
