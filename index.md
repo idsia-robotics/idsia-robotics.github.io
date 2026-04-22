@@ -91,11 +91,14 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+## Apr 2026
+Our paper “NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics" has been accepted for publication in the IEEE Robotics and Automation Practice journal. [ArXiv preprint](https://arxiv.org/abs/2601.07476). [Read more](https://idsia-robotics.github.io/nanorobotics/) about our nanorobotics research.
+
 ## Jan 2026
 Three papers accepted at [ICRA 2026](https://2026.ieee-icra.org/):
 - “User-Tailored Learning to Forecast Walking Modes for Exosuits”, in collaboration with our colleagues at [TUM](https://www.ce.cit.tum.de/ibrs/members/).  [ArXiv preprint](https://arxiv.org/pdf/2603.15329), [video](https://www.youtube.com/watch?v=arcrc17y6m4)
 - “Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency”.  [ArXiv preprint](https://arxiv.org/abs/2603.02936), [Read more](https://idsia-robotics.github.io/selfsupervised/) about our self-supervised robot learning research.
-- "Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones", in collaboration with University of Bologna and ETH Zurich. [arxiv preprint](http://arxiv.org/abs/2603.01850), [supplementary video](https://youtu.be/-frFPUBGa0c).
+- "Tiny-DroNeRF: Tiny Neural Radiance Fields aboard Federated Learning-enabled Nano-drones", in collaboration with University of Bologna and ETH Zurich. [ArXiv preprint](http://arxiv.org/abs/2603.01850), [video](https://youtu.be/-frFPUBGa0c).
 
 ## Nov 2025
 Congratulations to Dr. Antonio Paolillo for winning the [Innovation Booster New Mobility](https://newmobilitylab.ch/en_us/?organizationId=258) grant to research novel AI-enabled personal mobility vehicles in collaboration with [Genny Mobility](https://www.gennymobility.com/en/).
