@@ -20,6 +20,14 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+/* hero image */
+.page__hero-image {
+    width: 100%;
+    max-height: 65vh;
+    object-fit: cover;
+    object-position: top;
+}
+
 /* bibtex */
 
 .bibtex_display{
