@@ -91,6 +91,12 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+## Jun 2026
+Our paper “Thinking Fast, Thinking Slow: Adaptive Multimodal Transformer-based Sensor Fusion for Depth Estimation on Ultra-low-power MCUs” has been accepted for publication in the [IEEE Sensors Journal](https://ieee-sensors.org/ieee-sensors-journal/).
+
+## Jun 2026
+Our paper “Adaptive AI: Energy Efficient Multi-exit TinyML on Intelligent Vision Systems at the Edge” was accepted for publication at [IEEE COINS 2026](https://coinsconf.com/).
+
 ## Apr 2026
 Our paper “NanoCockpit: Performance-optimized Application Framework for AI-based Autonomous Nanorobotics" has been accepted for publication in the IEEE Robotics and Automation Practice journal. [ArXiv preprint](https://arxiv.org/abs/2601.07476). [Read more](https://idsia-robotics.github.io/nanorobotics/) about our nanorobotics research.
 
