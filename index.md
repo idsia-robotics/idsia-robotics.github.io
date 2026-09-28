@@ -91,6 +91,9 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 
 # News
 
+## June 19, 2026
+Our paper “Sixth-Sense: Self-Supervised Learning of Spatial Awareness of Humans from a Planar Lidar” won the "[Best Robotics Innovation Paper Award](https://www.linkedin.com/posts/sebastian-schlund_arso2026-arso2027-ieee-ugcPost-7473673483168833536-f9rL/)" at ARSO 2026!
+
 ## Jun 2026
 Our paper “Thinking Fast, Thinking Slow: Adaptive Multimodal Transformer-based Sensor Fusion for Depth Estimation on Ultra-low-power MCUs” has been accepted for publication in the [IEEE Sensors Journal](https://ieee-sensors.org/ieee-sensors-journal/).
 
