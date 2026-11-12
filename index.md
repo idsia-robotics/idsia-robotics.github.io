@@ -35,11 +35,7 @@ p3:
       https://idsia-robotics.github.io/pop-robotics/
     btn_label: Read More
     btn_class: btn--primary
-      
 p4:
-  - image_path: /files/footbots.jpg
-    title: Collaboration and planning in multi-robot systems
-p5:
   - image_path: /files/thymio.jpg
     title: Robotics for education
     excerpt: >-
@@ -47,11 +43,7 @@ p5:
       research, at the crossing between educational sciences and robotics.  The institute has been part of '*Introducing People to Research in Robotics through an
       Extended Peer Community in Southern Switzerland*': a project awarded the
       Optimus Agora Prize by the Swiss National Science Foundation
-    url: >-
-      http://www.snf.ch/en/researchinFocus/newsroom/Pages/news-180920-robots-in-the-classroom.aspx
-    btn_label: Read More
-    btn_class: btn--primary
-published: true
+    published: true
 ---
 
 # About
