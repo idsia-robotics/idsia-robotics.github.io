@@ -1,11 +1,3 @@
 main:
-  - title: "Research"
-    url: "#research"
-  - title: "News"
-    url: "#news"
-  - title: "People"
-    url: /people/
-  - title: "Publications"
-    url: /publications/
   - title: "IDSIA"
     url: "http://www.idsia.ch"
