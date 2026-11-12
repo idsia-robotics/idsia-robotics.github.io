@@ -48,7 +48,7 @@ p4:
 
 # About
 
-IDSIA engages in both applied and basic research in the field of autonomous robotics, often intersecting with other research domains, particularly machine learning and visual computing. The institute is currently involved in many robotics research collaborations with national and international partners, and works with mobile robots (flying and ground), as well as industrial robotics.
+This page describes the research area of autonomous robotics at the [Dalle Molle Institute of Artificial Intelligence (IDSIA)](www.idsia.ch), a joint institute between [USI](www.usi.ch) and [SUPSI](www.supsi.ch).  The research area is co-led by Prof. [Alessandro Giusti](https://alessandro-giusti.github.io/) and Prof. [Luca Gambardella](https://lucagambardella.ch/). The institute engages in applied and basic research in the field of autonomous robotics, with close collaborations with the [LEarning for Optimization and coNtrol (LEON)](https://leon.idsia.ch/) research group. Projects focus on various aspects of autonomy for mobile robotics (flying and ground), as well as industrial robotics.
 
 # Research
 
@@ -58,7 +58,6 @@ We work with mobile robots (flying and ground), as well as industrial robotics; 
 {% include feature_row id="p2" type="left" %}
 {% include feature_row id="p3" type="left" %}
 {% include feature_row id="p4" type="left" %}
-{% include feature_row id="p5" type="left" %}
 
 
 # Work with us
