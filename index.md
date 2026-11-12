@@ -30,7 +30,7 @@ p3:
   - image_path: /files/pop_robotics.jpg
     title: People-Oriented and Personalized Robotics
     excerpt: >-
-      The [eople-Oriented and Personalized Robotics](https://idsia-robotics.github.io/pop-robotics/) research group led by Dr. Antonio Paolillo aims to close the distance between people and robots. As robots become more and more present in everyday life, in our homes, hospitals, factories, and public spaces, a growing population of non-expert users is asking for machines that are intuitive, responsive, and able to adapt to them, rather than the other way around. To make our vision of human-centered robotics a reality, we draw on methods from robotic control, machine learning, and artificial intelligence at large. Our current research spans sensor-based control, AI-based robotic perception, human-robot interaction, social robotics, and co-design.
+      The [eople-Oriented and Personalized Robotics](https://idsia-robotics.github.io/pop-robotics/) research group led by Dr. Antonio Paolillo aims to close the distance between people and robots.  To make our vision of human-centered robotics a reality, we draw on methods from robotic control, machine learning, and artificial intelligence at large. Our current research spans sensor-based control, AI-based robotic perception, human-robot interaction, social robotics, and co-design.
     url: >-
       https://idsia-robotics.github.io/pop-robotics/
     btn_label: Read More
